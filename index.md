@@ -5,10 +5,7 @@ nav_order: 1
 ---
 
 
-### Initial announcements, logistics, resources
-*** 
-
-
+## Initial announcements, logistics, resources
 
 Hi everyone, Welcome to Algorithms! We'll be meeting 2 x week for class, plus the weekly lab. 
 
