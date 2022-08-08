@@ -19,7 +19,7 @@
 title: "Algorithms csci2200 Fall 2022"
 remote_theme: pmarsceill/just-the-docs
 
-description: Website for  Algorithms(csci2200), Fall'22,  Bowdoin College
+description: Website for  Algorithms(csci2200), Fall 2022,  Bowdoin College
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bowdoin-algorithms-f22.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -70,10 +70,12 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Blackboard":
-    - "https://www.blackboard.com/"
+  "Canvas":
+    - "https://www.canvas.com/"
   "Gradescope":
-    - "https://www.gradescope.com"
+    - "https://canvas.bowdoin.edu"
+  "Slack": 
+    - "https://slack.com"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
