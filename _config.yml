@@ -21,7 +21,7 @@ remote_theme: pmarsceill/just-the-docs
 
 description: Website for  Algorithms(csci2200), Fall'22,  Bowdoin College
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bowdoin-csci2200-f22.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bowdoin-algorithms-f22.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 permalink: pretty
