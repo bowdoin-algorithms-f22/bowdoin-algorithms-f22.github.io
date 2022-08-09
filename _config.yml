@@ -16,10 +16,10 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: "csci2200:Algorithms, Fall 2022"
+title: "Algorithms (csci2200, Fall 2022, Bowdoin College)"
 remote_theme: pmarsceill/just-the-docs
 
-description: Website for  Algorithms(csci2200), Fall 2022,  Bowdoin College
+description: Website for  Algorithms (csci2200), Fall 2022,  Bowdoin College
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bowdoin-algorithms-f22.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
