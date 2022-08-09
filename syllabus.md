@@ -5,14 +5,14 @@ nav_order: 2
 ---
 
 
-## Syllabus (csci 2200, Spring'22)
+## Syllabus (csci 2200, Fall 2022)
 
 
 **Instructor:** Laura Toma 
 
-**Meeting time:** Mon, Wed & Fri, 11:40am-1:05pm
+**Meeting times:** Section A: Mon, Wed 10:05-11:30, lab Thu 1:15-2:45.  Section B: Tue, Thu 11:40-1:05, lab Thu 2:45 - 4:15 
 
-**Where:**  Searles 223
+**Where:**  class in Searles 126, labs in VAC South 303 
 
 
 Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm.  This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.   Arguing why an algorithm works is a crucial part of algorithmic problem solving, which we'll approach only intuitively without going into rigorous proofs (for those who have the background of _Intro to math reasoning_ extending these ideas to formal arguments should be easy). Overall the class will show that the "...subject of algorithms represents a powerful lens through which to view the field of computer science in general" [Kleinberg & Tardos]
@@ -33,37 +33,34 @@ By the end of this course, you should be able to:
       1. Come up with ideas
       2. Argue whether they are correct or incorrect (come up with counter-examples)
       3. Analyze their theoretical complexity and compare them
-      4. Ask: Can we do better?
-  4. Demonstrate the ability to design and analyze algorithms for new problems 
+      4. Consider the question: Can you improve the solution?
+  4. Demonstrate the ability to design and analyze algorithms for _new_ problems 
 
 
 ### Getting Ready for the Course
 We'll spend the first week reviewing problems and concepts from Data Structures, such as linear search and binary search; big-oh; best cases and worst cases. If you are not sure what these mean, you probably want to go back and review them in order to make the beginning of the class smoother.  
-In the first 3 weeks we'll dive deeper into analysis, which means we'll encounter _logarithms_ and _exponents_. If you have not seen these in a long time, it's a good idea to review them. 
-These are all fundamental concepts and there are plenty of resources around. 
+In the first 3 weeks we'll dive deeper into analysis, which means we'll encounter _logarithms_ and _exponents_. If you have not seen these in a long time, it's a good idea to review them.  These are all fundamental concepts and there are plenty of resources around. 
 
 
 ### Weekly flow: How will this class work?
-The class meets (in-person) three times a week. Each week we'll focus on a couple of topics. Resources consist of lecture notes, exercises, slides and a problem set.
+The class meets three times a week (2 x lectures plus the weekly lab). Each week we'll focus on a couple of topics which we'll reinforce with a problem set.  Roughly speaking, the class meetings are dedicated to going over the new content and the  lab is for working on the weekly problem set. The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer  questions. The labs are there to help you fix and reinforce concepts while you collaborate freely with your peers and talk to us (myself and the LAs). Labs are __not__ graded, however it is important that you strive to understand all problems as they are designed to teach new concepts. Don't be surprised if you'll find that most of your learning occurs while you work on the lab with your peers!  It is your responsibility to complete the lab problems and get your questions answered.   
 
-Roughly speaking, the first two meetings of the week  are dedicated to going over the new content.  The third weekly meeting, designated as the _lab_, is for working on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer your questions. The labs are not graded. It is your responsibility to complete the lab problems and check in with us. 
 
 Here's the weekly timeline:
 
-  1. **Pre-view the lecture notes and take the pre-check.**    Each week, _before coming to class_, your first task is to read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.   Each week, before coming to class, you need to take the pre-check.  The pre-check is online and consists of a set of  easy multiple-choice questions; it covers very basic questions from the lecture. You need to take the pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and it will retain the highest score. It is open books and  no time limit.  
+  1. **Pre-view the lecture notes.**    Each week, _before coming to class_, your first task is to read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.   
    
-     * Time to budget: 2 hours 
+     * Time to budget: .5 hour
            
-  2. **Attend the 3 weekly meetings.** Come to class, listen to in-depth presentation, get your questions answered and work with your peers.  The pace of thelectures  will be fast since everyone will be somewhat  familiar with the content. This will leave more time to work on problems! Answers to the lab will be posted at the end of the lab. 
+  2. **Attend classes and the lab.** Come to class,  get your questions answered and work with your peers.  The pace of the lectures  will be faster when  everyone will be somewhat  familiar with the content. This will leave more time for you to work on new problems!
  
      * Time to budget: 4.5 hours. 
-
   
-  3. Work on the current **assignment**. There will be a weekly assignment.  Drop in to office hours to get your questions answered.
+  3. Work on the weekly **assignment**. There will be a weekly assignment.  Drop in to office hours to get your questions answered.
    
-      * Time to budget: 2 hours.   
+      * Time to budget: 3-4 hours.   
  
-  4. **Review material and take the weekly quiz.** Review  the week's material, including lecture notes, slides, the lab problems and their solutions; use the self-study quizzes and the study questions to help evaluate your understanding. When you are ready, take the weekly quiz. 
+  4. **Take the weekly quiz.** Review  that week's material, including lecture notes, slides, the lab problems and their solutions. Use the self-study quizzes and the study questions to help evaluate your understanding. When you are ready, take the weekly quiz. 
     
      * Time to budget: 2-3 hours.  
 
@@ -72,16 +69,11 @@ Here's the weekly timeline:
 
 The work for the class, throughout the semester, consists of:  
 
-- __Pre-checks:__  There are a total of  approx. 12 pre-checks (approx. one per week). These checks are very easy, open books, unlimited time, 3 attempts; their goal is simply to help you stay on track (preview the notes before coming to class every week).
-
--  __Labs:__ There are a total of  14 labs (one every week). The weekly lab consist of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.   However if you want solutions, you'll first need to send your work (the work won't be graded for correctness, but it needs to show effort).
-    -  Don't be surprised if you'll find that most of your learning occurs while you work on the lab with your peers!
-
-- __Quizzes:__ There are a total of 14 quizzes (one per week). The quizzes are administered at this time via Blackboard (though the plan is to move them to Gradescope in the future), and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home.
+- __Quizzes:__ There are a total of 10 quizzes  online quizzes,   roughly one per week. The quizzes are administered at this time via Canvas  and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week.  The quizzes will be remote. 
 
 - __Assignments:__ There are a total of 10-14 assignments throughout the semester (approx. one every week). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
 
-- Exams: There are no exams (other than the quizzes). 
+- __Exams:__ There will be 
 
 
 The final grade will be computed based on the  pre-checks, quizzes and  assignments as follows: 
