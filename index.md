@@ -24,7 +24,6 @@ We'll use the following resources:
 
 
 * __Zoom link__: All classes will be in person. If at any point we'll need to meet on Zoom, here is the zoom link (I have disabled the waiting room, but you need to authenticate with your bowdoin account in order to join):  
-
 [https://bowdoin.zoom.us/j/8024276229?pwd=dUpVY29HdXZFWFpIZWVNV3l3SEluQT09](https://bowdoin.zoom.us/j/8024276229?pwd=dUpVY29HdXZFWFpIZWVNV3l3SEluQT09)
 
 Meeting ID: 802 427 6229
