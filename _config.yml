@@ -16,7 +16,7 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: "Algorithms csci2200 Fall 2022"
+title: "csci2200:Algorithms, Fall 2022"
 remote_theme: pmarsceill/just-the-docs
 
 description: Website for  Algorithms(csci2200), Fall 2022,  Bowdoin College
@@ -71,9 +71,9 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Canvas":
-    - "https://www.canvas.com/"
+    - "https://canvas.bowdoin.com/"
   "Gradescope":
-    - "https://canvas.bowdoin.edu"
+    - "https://www.gradescope.com"
   "Slack": 
     - "https://slack.com"
 
