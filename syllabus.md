@@ -8,14 +8,16 @@ nav_order: 2
 ## Syllabus (csci 2200, Fall 2022)
 
 
-**Instructor:** Laura Toma 
+__Instructor:__ Laura Toma, email: ltoma at bowdoin.edu, office: Searles 219 
 
-**Meeting times:** Section A: Mon, Wed 10:05-11:30, lab Thu 1:15-2:45.  Section B: Tue, Thu 11:40-1:05, lab Thu 2:45 - 4:15 
+__Class times:__ 
+- Section A: MW 10:05-11:30, lab Thu 1:15-2:45
+- Section B: TR 11:40-13:05, lab Thu 2:45 - 4:15 
 
-**Where:**  class in Searles 126, labs in VAC South 303 
+__Classroom:__  classes in Searles 126, labs in VAC South 303 
 
 
-Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm.  This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.   Arguing why an algorithm works is a crucial part of algorithmic problem solving, which we'll approach only intuitively without going into rigorous proofs (for those who have the background of _Intro to math reasoning_ extending these ideas to formal arguments should be easy). Overall the class will show that the "...subject of algorithms represents a powerful lens through which to view the field of computer science in general" [Kleinberg & Tardos]
+Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm.  This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.   Throughout the course we will consider fundamental computational problems and their algorithmic solutions. We'll illustrate the process of coming up with algorithms, analyse their theoretical complexity, and argue that they  work correctly.   We'll approach correctness  intuitively without going into rigorous proofs (for those who have the background of _Intro to math reasoning_ extending these ideas to formal arguments should be easy). Overall the class will show that the "...subject of algorithms represents a powerful lens through which to view the field of computer science in general" [Kleinberg & Tardos]
 
 **Prerequisites:** csci 2101 (Data Structures)
 
