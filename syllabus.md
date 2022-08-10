@@ -45,7 +45,7 @@ After taking this class you will be able to:
 
 The class meets three times a week (2 x class meetings plus the weekly lab). Each week we'll focus on a topic (or a couple of topics).  Roughly speaking, the class meetings are dedicated to going over the new content and the  lab is for working on a set of problems that reinforce and extend the topics seen that week. 
 
-The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer  questions. The labs are there to help you fix and reinforce concepts while you collaborate freely with your peers and talk to us (myself and the LAs). Labs are __not__ graded, however it is important that you strive to understand all problems as they are designed  extend the lectures.  It is your responsibility to complete the lab problems and get your questions answered.   
+The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer  questions. The labs are there to help you reinforce and extend the concepts while you collaborate freely with your peers and talk to us (myself and the LAs). Labs are __not__ graded, however it is important that you strive to understand all problems as they are designed  to extend the lectures.  It is your responsibility to complete the lab problems and get your questions answered.   
 
 Overall, labs should be fun and you'll find that most of your learning occurs while you work on the lab with your peers! 
 
