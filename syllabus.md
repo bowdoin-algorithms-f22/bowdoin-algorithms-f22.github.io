@@ -56,61 +56,67 @@ Here's the weekly flow:
    
      * Time to budget: .5 hour
            
-  2. **Attend classes and the lab.** Come to class,  get your questions answered and work with your peers.  
+  2. **Attend classes and the lab.** Come to class,  understand the details, get your questions answered and work with your peers.  
  
      * Time to budget: 4.5 hours. 
   
-  3.  **Complete the weekly assignment**. Work alone or with your partner to complete the weekly assignment.  Drop in to one or more of the study groups/office hours to check on your ideas and get your questions answered. Make sure to read the assignment policies and turn it in via Gradescope. 
+  3.  **Complete the weekly assignment**. Work alone or with your partner to complete the weekly assignment.  Drop in to one or more of the study groups/office hours to check on your ideas and get your questions answered. Turn it in on Gradescope. 
    
       * Time to budget: 3-4 hours.   
  
-  4. **Take the weekly quiz.** Review  that week's material, including lecture notes, slides, the lab problems and their solutions.  When you are ready,  take the weekly quiz. This is a short, multiple-choice/shor answer quiz administered via Canvas, which you'll take remotely. 
+  4. **Take the weekly quiz.** Review  that week's material, including lecture notes, slides, the lab problems and their solutions.  When you are ready,  take the weekly quiz. The quizzes are available on Canvas, and you'll take them remotely.  Most quizzes are automatically graded, and consist of  multiple-choice/short answer questions. Most quizzes are capped at 120 minutes to avoid time pressure, but they  take on the order of 30 minutes or less to complete.  
     
      * Time to budget: 2-3 hours.  
+
+  
+  
+  ### Time Commitment
+This is a core CS class and will demand a significant time commitment. It is critical that you budget your time accordingly.  You should expect to commit 10 hours a week to meet the expectations of the course, and perhaps 12 to excel. The suggested times above are tentative and will vary from week to week with some topics, esp towards the middle of the semester,  being harder and taking longer than others. Quizzes and assignments are aimed to take a similar amount of time, but of course there will be variability. 
+
+Some of you will put in more or less time than what I suggested above.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, take a look at the optional problems or just send me an email and I will happily provide additional problems.
+
 
   
 ### Grading Policy 
 
 The work for the class, throughout the semester, consists of:  
 
-- __Quizzes:__ There will be a total of O(10) online quizzes,   roughly one per week. The quizzes are administered at this time via Canvas  and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week.  You'll take the quizzes remotely form your room. 
+- __Quizzes:__ There will be a total of O(10) online quizzes,   roughly one per week. The quizzes are administered at this time via Canvas  and are  a combination of multiple-choice and short-answer questions that test the  knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week.  You'll take the quizzes remotely from your room. 
 
-- __Assignments:__ There are a total of O(10) assignments throughout the semester, approx. one per week. 
-- 
-- __Exams:__ There will be 3 in-class exams. One in week 6, one in week 10 and one at the end of teh semester (the final exam slot).  The exams are non-cumulative, to the extent that it's possible.
+- __Assignments:__ There are a total of O(10) assignments throughout the semester, roughly one per week. The assignments are  hard. They will consist of new problems, for which you'll have to come up with efficient solutions. An important  goal of the assignments will be to develop a good algorithmic writing style --- your solutions  will look professional, concise and complete, easy to understand, neat, with justification of why it works and analysis of the running time.  
+
+- __Exams:__ There will be 3 in-class exams, in week 6,  10 and one at the end of the semester (in the final exam slot for this class).  The exams are non-cumulative, to the extent that it's possible.
 
 
-The final grade will be computed based on the  pre-checks, quizzes and  assignments as follows: 
+The final score will be computed  as follows: 
 
 * Assignments:    40%  (each assignment weighed equally)
 * Quizzes:        30%  (all quizzes weighed equally, drop  lowest score)
-* Exams:          30% (3 exams weighed equally)
+* Exams:          30% (3 exams each  10%)
 * Class engagement: tie breaker.  Attending class, working with your group in the lab, asking questions, engaging in discussions, volunteering answers,  participating on Slack, attending office hours and striving to turn in good work --- overall engagement will be used as a tie breaker when your score is between two grades.  
 
 
 
-### Time Commitment
-Preparing for weekly material will demand a significant time commitment, and it is critical that you budget your time accordingly.  You should expect to commit 10 hours a week to meet the expectations of the course, and perhaps 12 to excel. A tentative breakdown of the weekly time is provided above---- please budget 10-12 hours a week for this class.
-
-Some of you will put in more or less time than what I suggested above.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, take a look at the optional problems or just send me an email and I will happily provide additional problems.
-
 
 
 ### What you can expect from me: 
-My goal is to create a class that's similar to algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take; some of you will go on to software engineering careers; many of you will go at some point through technical interviews. For all of these reasons it is important to pack  many topics  in the syllabus and expose you to many new problems.  The goal of the class is not only to  familiarize with basic algorithms, but also to be able to solve new problems on your own. 
 
-The  syllabus is packed and you will find the pace and the problems ocasionally challenging. I often choose problems from the top R1 universities (such as Stanford, MIT, Berkeley, etc). To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, many with solutions.
+My goal is to create a class that's similar to algorithms classes at peer institutions.  Some of you will go on to software engineering careers where  a strong algorithmic background will be a must.  Many of you will go through technical interviews which draw heavily from the content of this class. A strong algorithmic backgound, similar to one you'd get a a big university, will be a big advantage to your future career path, technical or not. It is important to pack  many topics  in the syllabus and expose you to many new problems.  Ultimately the goal of the class is to give you the tools so that  you can come up with solutions to new problems on your own.  The  syllabus is packed and you will find the pace and the problems ocasionally challenging. I often choose problems from the top research universities (such as Stanford, MIT, Berkeley, etc). 
 
-Please don't hesitate to let me know if you have any significant circumstances that hinder your learning, and we will work together to make an alternate plan.   
+My teaching style is to create a friendly, open atmosphere where everyone feels comfortable and motivated to learn. There are no stupid questions. Based on my experience, the most effective learning happens when students work well together.  Open collaboration in the lab will be highly encouraged. Assignments are pair-optional, although everyone is highly encouraged to find a partner.  To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, many with solutions. Please help me make this class great by staying engaged. 
+
+I know there are circumstances in our lives that we can't control. If you  have any (significant) circumstances that make learning hard, just talk to me, and we will work together to make an alternate plan. 
 
 
 
 ### Key Tips
-You will probably find this class to be difficult. What makes it hard is that the material is theoretical and spans many levels of abstraction. Adding to that, coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions. It is important that you know this ahead of time and you start preparing mentally.
+You will  find this class to be difficult, especially in the second half. What makes it hard is that the material is theoretical and spans many levels of abstraction, and that coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions.   Working on an algorithms assignment may seem easier than working on a programming assignment in Data Structures (arh, those bugs): When you write code, the process of getting your code to work forces you to correct your logic until it runs.   When you come up with an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. Thinking through your idea and all the cases that might happen --- it all happens in your head. There is no computer to tell you that you have bugs, _YOU_ need to do that. It will be easy to come up with  solutions that work partially.  The hard part will be coming up with a fully correct algorithm. 
 
-Here are some suggestions for doing well in class:
 
-* Budget your time as suggested above and give yourself plenty of time to read the materials and work on the assignments each week. Plan on 10-12 hours a week, and make a schedule which you follow every week. 
+
+Here are some suggestions for doing well :
+
+* Budget your time  and give yourself plenty of time to read the materials and work on the assignments each week. Plan on 10-12 hours a week, and make a schedule which you follow every week. 
 
 * Be pro-active about things that are not clear; search for resources on the Internet
 
