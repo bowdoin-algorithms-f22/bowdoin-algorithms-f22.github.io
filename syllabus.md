@@ -21,7 +21,7 @@ Algorithms are the backbone of computer science. Everywhere computer sciences re
 
 **Prerequisites:** csci 2101 (Data Structures)
 
-Practically speaking, we'll spend the first week reviewing problems and concepts from Data Structures, such as linear search and binary search, big-oh,  best cases and worst cases. While diving deeper into analysis we'll encounter _logarithms_ and _exponents_. If you have not seen these in a long time, expect to spend more time the first weeks of classes as you review them.  
+Practically speaking, we'll spend the first week reviewing problems and concepts from Data Structures, such as linear search and binary search, big-oh,  best cases and worst cases. While diving deeper into analysis we'll encounter _logarithms_ and _exponents_. If you have not seen these in a long time, expect to spend more time the first weeks of classes.  
 
 ### Learning goals 
 
@@ -45,32 +45,28 @@ After taking this class you will be able to:
 
 The class meets three times a week (2 x class meetings plus the weekly lab). Each week we'll focus on a topic (or a couple of topics).  Roughly speaking, the class meetings are dedicated to going over the new content and the  lab is for working on a set of problems that reinforce and extend the topics seen that week. 
 
-The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer  questions. The labs are there to help you reinforce and extend the concepts while you collaborate freely with your peers and talk to us (myself and the LAs). Labs are __not__ graded, however it is important that you strive to understand all problems as they are designed  to extend the lectures.  It is your responsibility to complete the lab problems and get your questions answered.   
+The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer  questions. The labs are there to help you reinforce and extend the concepts while you collaborate freely with your peers and talk to us. Labs are __not__ graded, however it is important that you strive to understand all problems as they are designed  to extend the lectures.  It is your responsibility to complete the lab problems and get your questions answered.   
 
-Overall, labs should be fun and you'll find that most of your learning occurs while you work on the lab with your peers! 
+Overall, labs should be __fun__  and you'll find that most of your learning occurs while you work on the lab with your peers! 
 
 
 Here's the weekly flow:
 
   1. **Pre-view the lecture notes.**    Each week, _before coming to class_, your first task is to read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.   
-   
-     * Time to budget: .5 hour
+ Time to budget: .5 hour
            
   2. **Attend classes and the lab.** Come to class,  understand the details, get your questions answered and work with your peers.  
- 
-     * Time to budget: 4.5 hours. 
+ Time to budget: 4.5 hours. 
   
   3.  **Complete the weekly assignment**. Work alone or with your partner to complete the weekly assignment.  Drop in to one or more of the study groups/office hours to check on your ideas and get your questions answered. Turn it in on Gradescope. 
-   
-      * Time to budget: 3-4 hours.   
+Time to budget: 3-4 hours.   
  
   4. **Take the weekly quiz.** Review  that week's material, including lecture notes, slides, the lab problems and their solutions.  When you are ready,  take the weekly quiz. The quizzes are available on Canvas, and you'll take them remotely.  Most quizzes are automatically graded, and consist of  multiple-choice/short answer questions. Most quizzes are capped at 120 minutes to avoid time pressure, but they  take on the order of 30 minutes or less to complete.  
-    
-     * Time to budget: 2-3 hours.  
+Time to budget: 2-3 hours.  
 
   
   
-  ### Time Commitment
+### Time Commitment
 This is a core CS class and will demand a significant time commitment. It is critical that you budget your time accordingly.  You should expect to commit 10 hours a week to meet the expectations of the course, and perhaps 12 to excel. The suggested times above are tentative and will vary from week to week with some topics, esp towards the middle of the semester,  being harder and taking longer than others. Quizzes and assignments are aimed to take a similar amount of time, but of course there will be variability. 
 
 Some of you will put in more or less time than what I suggested above.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, take a look at the optional problems or just send me an email and I will happily provide additional problems.
