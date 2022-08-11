@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Schedule at a glance
-nav_order: 5
+nav_order: 3
 ---
 
 ## Schedule at a glance (Fall '22)
