@@ -14,7 +14,7 @@ If you want to dive deeper into proofs and the mathematics of computer science, 
 - [Building blocks for theoretical computer science](http://mfleck.cs.illinois.edu/building-blocks/) by Margaret Fleck
 - [Mathematics for Computer science](http://opendatastructures.org/LLM.pdf)by Lehman, Leighton and Meyer
 
-There are lots of resources online, such as lecture notes, animations, visualizations, practice problems, video, which you are encouraged to explore to further understand the material. However, you must be careful __not to search for specifi problems__ with the intent to get hints for their solutions.  Copying solutions from the internet violates academic honesty.  
+There are lots of resources online, such as lecture notes, animations, visualizations, practice problems, video recordings, which you are encouraged to explore to help you understand the material. However, you must be careful __not to search the internet for specific problems__ with the intent to get hints for their solutions.  Copying solutions from the internet violates academic honesty.  
 
 
 Below is a list of resources  (by no means exhaustive) which I used to design this class and which I highly recommend. 
