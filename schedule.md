@@ -1,10 +1,10 @@
 ---
 layout: default 
-title: Schedule
+title: Schedule at a glance
 nav_order: 5
 ---
 
-## Overall schedule (Fall '22)
+## Schedule at a glance (Fall '22)
 
 |:-----------------|:------------------|:---------- |
 | Week 1       |  August 31 - September 2    | Introduction and review |                  
