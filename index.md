@@ -24,8 +24,6 @@ We'll use the following resources:
 * __Slack__: Class communication will be entirely on Slack. You will need to monitor Slack for class updates, including possible cancellations and location changes (in case there are any). You can contact me and any of the LAs by private messaging on Slack. 
 
 * __Zoom link__: All classes will be in person. If at any point we'll need to meet on Zoom, here is the zoom link (I have disabled the waiting room, but you need to authenticate with your bowdoin account in order to join):  
-[https://bowdoin.zoom.us/j/8024276229?pwd=dUpVY29HdXZFWFpIZWVNV3l3SEluQT09](https://bowdoin.zoom.us/j/8024276229?pwd=dUpVY29HdXZFWFpIZWVNV3l3SEluQT09)
-
-Meeting ID: 802 427 6229 Passcode: 04102
+[https://bowdoin.zoom.us/j/8024276229?pwd=dUpVY29HdXZFWFpIZWVNV3l3SEluQT09](https://bowdoin.zoom.us/j/8024276229?pwd=dUpVY29HdXZFWFpIZWVNV3l3SEluQT09), Meeting ID: 802 427 6229 Passcode: 04102
 
 If you are registered for the class, you will be added to the Gradescope site for the class and to the Slack channel, and you'll receive an invitation to join. 
