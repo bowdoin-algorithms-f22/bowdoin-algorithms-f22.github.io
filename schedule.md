@@ -6,7 +6,7 @@ nav_order: 5
 
 ## Schedule at a glance (Fall '22)
 
-|:-----------------|:------------------|:---------- |
+|:---------------------|:--------------------|:---------- |
 | Week 1       |  August 31 - September 2    | Introduction and review |                  
 | Week 2, 3    |  September 5-16 | Analysis tools                  
 | Week 4, 5    |  Septembere 19-30   | Efficient sorting and selection |
