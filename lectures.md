@@ -5,7 +5,7 @@ nav_order:6
 ---
 
 
-##blabablabla
+## blabablabla
 
 
 ### Week 1: Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
