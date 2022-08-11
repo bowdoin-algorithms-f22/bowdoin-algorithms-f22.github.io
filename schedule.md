@@ -15,5 +15,5 @@ nav_order: 3
 | Week 7, 8, 9, 10     |  October 12 -Nov 4  | Techniques (divide-and-conquer, dynamic programming and greedy) |                           
 | Week 11, 12  |  November 7-18 | Graphs  (BFS, DFS, topological sort and DAGs)|
 |             | _Thanksgiving break_ | | 
-| Week 14, 15  |  November 28 - December 9 | Graphs: shortest paths and minimum spanning trees)|
+| Week 14, 15  |  November 28 - December 9 | Graphs: shortest paths (shortest paths on DAGs, Dijkstra's  and Bellman-Ford algorithms) and minimum spanning trees (Kruskal's and Prim's algorithms|
 
