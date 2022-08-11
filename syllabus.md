@@ -104,7 +104,7 @@ Here are some suggestions for doing well :
 
 * Budget your time  and give yourself plenty of time to read the materials and work on the assignments each week. Plan on at least 10 hours a week, and make a schedule which you follow every week. 
 
-* Be pro-active about things that are not clear. There's a lot of helpful free resources out there. Just search on the Internet. Really, that's ~~allowed~~ encouraged).
+* Be pro-active about things that are not clear. There's a lot of helpful free resources out there. Just search on the Internet (really, that's ~~allowed~~ encouraged).
 
 * Self-reflection: Try to formulate questions, and try to answer them yourself.
 
