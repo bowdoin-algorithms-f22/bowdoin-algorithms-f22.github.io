@@ -13,6 +13,8 @@ Collaboration and discussion are crucial for this class.  You are encouraged to 
 
   * **Assignments:** The assignments are at **collaboration-level 1**; that is, verbal collaboration without solution sharing. You are allowed and encouraged to discuss ideas with other class members, but the communication should be verbal. No one is allowed to take notes during the discussion (being able to recreate the solution later from memory is proof that you actually understood it). Communication needs to stay at a high level and cannot include sharing pseudo-code for the problem.
 
+There are lots of resources online, such as lecture notes, animations, visualizations, practice problems, video recordings, which you are encouraged to explore to help you understand the material. However, you must be careful not to search the internet for specific problems with the intent to get hints for their solutions. __Searching for the assignment problems   on the internet violates academic honesty for this class.__
+
   * **Quizzes and exams:**  At collaboration-level 3 (no collaboration allowed, professor clarifications only).
 
 While peer instruction can be immensely useful, it can also harm. Once you have an idea, or you found a solution, resist giving hints to your peers or leading them towards the answer. You are not helping them by doing so. Direct them towards the TAs who are trained to give help. 
