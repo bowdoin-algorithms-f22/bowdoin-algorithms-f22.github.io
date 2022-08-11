@@ -11,9 +11,9 @@ nav_order: 3
 | Week 2, 3    |  September 5-16 | Analysis tools (asymptotic notation, summations, recurrences)                 
 | Week 4, 5    |  Septembere 19-30   | Efficient sorting (mergesort, quicksort, randomized quicksort, sorting lower bound, bucket sort and counting sort) Selection (quick-select and O(n) worst-case selection) |
 | Week 6       |  October 3-7      | Review problems     |      
-| _October 10, 11_ | _fall break_  |                  |              
+|  | _fall break_  |                  |              
 | Week 7, 8, 9, 10     |  October 12 -Nov 4  | Techniques (divide-and-conquer, dynamic programming and greedy) |                           
 | Week 11, 12  |  November 7-18 | Graphs  (BFS, DFS, topological sort and DAGs)|
-| _November 23-25_             | _Thanksgiving break_ | | 
+|             | _Thanksgiving break_ | | 
 | Week 14, 15  |  November 28 - December 9 | Graphs: shortest paths and minimum spanning trees)|
 
