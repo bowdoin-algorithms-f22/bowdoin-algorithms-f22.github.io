@@ -14,7 +14,7 @@ An important goal of the assignments is to develop a good algorithmic writing st
 
 * __Pair optional:__ For each assignment you may choose to work alone, or with (at most) __one__ partner.  remember to check out the _partner collaboration policy_ under _Policies_. 
 
-* __Gradescope.__ The assignments will be  released on Gradescope, and you need to submit your solution on Gradescope. One member of the team should submit the assignment and should  add the other members to the "team" so that the other member can get the credit. Below are the  assignments for quick access. 
+* __Gradescope.__ The assignments will be  released on Gradescope, and you need to submit your solution on Gradescope. One member of the team should submit the assignment and should  add the other members to the "team" so that the other member can get the credit. The assignments are listed below  for quick access. 
    - [Assignment 1](/docs/hw1.pdf) 
    - [Assignment 2](/docs/hw2.pdf)
    - [Assignment 3](/docs/hw3.pdf)
