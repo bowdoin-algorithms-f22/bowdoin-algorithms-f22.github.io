@@ -37,7 +37,7 @@ Beyond the use of flex days, quizzes and assignments submitted late will incur a
 
 
 
-### Emergencies and personal circustances
+### Emergencies and personal circumstances
 
 If you have any significant circumstances that you forsee will impact your ability to meet a deadline, please let me know as soon as possible so that we can make a plan. Note that the circumstances have to be _significant_ (for e.g. taking two classes with homework deadlines teh same day does not count as an unusual circumstance). 
 
