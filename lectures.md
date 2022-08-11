@@ -5,8 +5,7 @@ nav_order:6
 ---
 
 
-### Detailed schedule (Fall'22)
-
+### Detailed schedule
 
 ### Week 1: Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
 
