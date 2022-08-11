@@ -4,17 +4,16 @@ title: Schedule
 nav_order: 3
 ---
 
-## Overall schedule (Spring '22)
+## Overall schedule (Fall '22)
 
 |:-------------|:------------------|:---------- |
-| Week 1       |  January 24 - 28    | Introduction and review |                  
-| Week 2, 3    |  January 31 - February 11 | Analysis tools                  
-| Week 4, 5    |  February 14-25   | Efficient sorting and selection |
-| Week 6       |  February 28 - March 4      | Problems     |                 
-| Week 7       |  March 7-11  | Techniques (divide-and-conquer) | 
-|  | _spring break_|   | 
-| Week 8, 9    |  March 28 - April 8  | Techniques (dynamic programming, greedy)|          
-| Week 10      |  April 11-15  |  Problems    |                     
-| Week 11, 12  |  April 18 - 26 | Graphs  (BFS, DFS, top sort and DAGs)|
-| Week 13, 14  |  May 2 - 11 | Graphs (SP and MST)|
+| Week 1       |  August 31 - September 2    | Introduction and review |                  
+| Week 2, 3    |  September 5-16 | Analysis tools                  
+| Week 4, 5    |  Septembere 19-30   | Efficient sorting and selection |
+| Week 6       |  October 3-7      | Problems     |      
+| _fall break_  |                  |              | 
+| Week 7, 8, 9, 10     |  October 12 -Nov 4  | Techniques (divide-and-conquer, dynamic programming and greedy) |                           
+| Week 11, 12  |  November 7-18 | Graphs  (BFS, DFS, top sort and DAGs)|
+| _Thanksgiving break_ | | |
+| Week 14, 15  |  November 28 - December 9 | Graphs (SP and MST)|
 
