@@ -41,7 +41,7 @@ If you have any significant circumstances that you forsee will impact your abili
 
 
 ### Regrades
-If you believe there is a grading error on an assignment, submit a "regrade request" in Gradescope, stating clearly what is the reason you seek a regrade.  If you believe  there is a grading error on an exam and the exam was not loaded in Gradescope,  send me a private message on Slack. 
+If you believe there is a grading error on an assignment or an exam which was handled via Gradescope, submit a "regrade request" in Gradescope, stating clearly what is the reason you seek a regrade.  Otherwise send me a private message on Slack (stating clearly what is the reason you seek a regrade). 
 
 
 ### Communication 
