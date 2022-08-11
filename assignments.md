@@ -14,20 +14,20 @@ An important goal of the assignments is to develop a good algorithmic writing st
 
 * __Pair optional:__ For each assignment you may choose to work alone, or with (at most) __one__ partner.  remember to check out the _partner collaboration policy_ under _Policies_. 
 
-* __Gradescope.__ The assignments are posted on Gradescope, and you need to submit your solution on Gradescope. One member of the team should submit the assignment and should  add the other members to the "team" so that the other member can get the credit. 
-- [Assignment 1](/docs/hw1.pdf) 
-- [Assignment 2](/docs/hw2.pdf)
-- [Assignment 3](/docs/hw3.pdf)
-- [Assignment 4](/docs/hw4.pdf)
-- [Assignment 5](/docs/hw5.pdf)
-- [Assignment 6](/docs/hw6.pdf)
-- [Assignment 7](docs/hw7.pdf) 
-- [Assignment 8](docs/hw8.pdf) 
-- [Assignment 9](docs/hw9.pdf) 
-- [Assignment 10](docs/hw10.pdf)
-- [Assignment 11](docs/hw11.pdf) 
-- [Assignment 12](docs/hw12.pdf) 
-- [Assignment 13](docs/hw13.pdf) 
+* __Gradescope.__ The assignments will be  released on Gradescope, and you need to submit your solution on Gradescope. One member of the team should submit the assignment and should  add the other members to the "team" so that the other member can get the credit. Below are the  assignments for quick access. 
+   - [Assignment 1](/docs/hw1.pdf) 
+   - [Assignment 2](/docs/hw2.pdf)
+   - [Assignment 3](/docs/hw3.pdf)
+   - [Assignment 4](/docs/hw4.pdf)
+   - [Assignment 5](/docs/hw5.pdf)
+   - [Assignment 6](/docs/hw6.pdf)
+   - [Assignment 7](docs/hw7.pdf) 
+   - [Assignment 8](docs/hw8.pdf) 
+   - [Assignment 9](docs/hw9.pdf) 
+   - [Assignment 10](docs/hw10.pdf)
+   - [Assignment 11](docs/hw11.pdf) 
+   - [Assignment 12](docs/hw12.pdf) 
+   - [Assignment 13](docs/hw13.pdf) 
 
 
 ### Assignment Guidelines
