@@ -12,7 +12,7 @@ There are a total of O(10) assignments throughout the semester, roughly one per 
 
 An important goal of the assignments is to develop a good algorithmic writing style — your solutions need to look professional, concise and complete, easy to understand, neat, with justification of why it works and analysis of the running time.
 
-* __Pair optional: __ For each assignment you may choose to work alone, or with (at most) __one__ partner.  remember to check out the _partner collaboration policy_ under _Policies_. 
+* __Pair optional:__ For each assignment you may choose to work alone, or with (at most) __one__ partner.  remember to check out the _partner collaboration policy_ under _Policies_. 
 
 * __Gradescope.__ The assignments are posted on Gradescope, and you need to submit your solution on Gradescope. One member of the team should submit the assignment and should  add the other members to the "team" so that the other member can get the credit. 
 - [Assignment 1](/docs/hw1.pdf) 
