@@ -1,11 +1,11 @@
 ---
 layout: default 
 title: Office hours & Study Groups 
-nav_order: 3
+nav_order: 4
 ---
 
 
-### Office hours and Study groups  (Spring'22)
+### Office hours and Study groups  (Fall'22)
 
 
 
