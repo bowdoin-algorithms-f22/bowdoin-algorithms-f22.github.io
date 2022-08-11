@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Announcements
+title: Welcome
 nav_order: 1
 ---
 
