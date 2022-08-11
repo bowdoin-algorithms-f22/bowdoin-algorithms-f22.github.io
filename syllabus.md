@@ -30,13 +30,13 @@ After taking this class you will be able to:
   1. Demonstrate understanding of fundamental computational problems and the algorithms proposed to solve them
       1. Illustrate how these algorithms work
       2. Analyze their theoretical complexity 
-      3. Use them as building blocks to design algorithms for new problems 
+      3. Use them as building blocks in other  algorithms 
   2. Demonstrate understanding of fundamental algorithmic design techniques (recursion, divide-and-conquer, greedy, dynamic programming)
-  3. Demonstrate the ability to design efficient algorithms for _new_ problems  from scratch 
+  3. Demonstrate the ability to design efficient algorithms for _new_ problems 
       1. Come up with ideas
       2. Argue whether they are correct (correctness justification) or incorrect (come up with counter-examples)
       3. Analyze their theoretical complexity and compare them
-      4. Consider the question: Can you improve the solution?
+      4. Consider the question: Can the solution be improved?
   
 
 
@@ -63,7 +63,7 @@ Here's the weekly flow:
   
   
 ### Time Commitment
-This is a core CS class and will demand a significant time commitment. It is critical that you budget your time accordingly.  The suggested times above are tentative and will vary from week to week as some topics---esp towards the middle of the semester---will harder and take longer than others. You should expect to commit 10 hours a week to meet the expectations of the course, and perhaps more to excel. 
+This is a core CS class and will demand a significant time commitment. It is critical that you budget your time accordingly.  The suggested times above are tentative and will vary from week to week as some topics---esp towards the middle of the semester---will be harder and may take more hours. You should expect to commit 10 hours a week to meet the expectations of the course, and  more to excel.
 
 Some of you will put in more or less time than what I suggested above.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, take a look at the optional problems or just send me an email and I will happily provide additional problems.
 
@@ -73,13 +73,13 @@ Some of you will put in more or less time than what I suggested above.  If you f
 
 The work for the class throughout the semester consists of:  
 
-- __Quizzes: 30%__ There will be a total of O(10) online quizzes,   roughly one per week. The quizzes are administered at this time via Canvas  and are  a combination of multiple-choice and short-answer questions that test the  knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week.  You'll take the quizzes remotely from your room.  All quizzes weighed equally 
+- __Quizzes: 30%__ There will be a total of O(10) online quizzes,   roughly one per week. The quizzes are administered at this time via Canvas  and are  a combination of multiple-choice and short-answer questions that test the  knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week.  You'll take the quizzes remotely from your room.  All quizzes are weighed equally (although the number of questions in each will be different).
 
-- __Assignments: 40%__ There are a total of O(10) assignments throughout the semester, roughly one per week. The assignments are  hard. They will consist of new problems, for which you'll have to come up with efficient solutions. An important  goal of the assignments will be to develop a good algorithmic writing style --- your solutions  will look professional, concise and complete, easy to understand, neat, with justification of why it works and analysis of the running time.   All assignments weighed equally   
+- __Assignments: 40%__ There are a total of O(10) assignments throughout the semester, roughly one per week. The assignments are  hard. They will consist of new problems, for which you'll have to come up with efficient solutions. An important  goal of the assignments is to develop a good algorithmic writing style --- your solutions  need to look professional, concise and complete, easy to understand, neat, with justification of why it works and analysis of the running time.   All assignments are weighed equally. 
 
-- __Exams: 30%__ There will be 3 in-class exams, in week 6,  10 and one at the end of the semester (in the final exam slot for this class).  The exams are non-cumulative, to the extent that it's possible. All exams weighed equally (i.e. each exam 10%)
+- __Exams: 30%__ There will be 3 in-class exams: the first one in in week 6, the second one in week 10 and the last one at the end of the semester (check Poloaris for the final exam slot for this class).  The exams are non-cumulative, to the extent that it's possible. All exams weighed equally (i.e. each exam 10%).
 
-Class engagement:  Attending class, working with your group in the lab, asking questions, engaging in discussions, volunteering answers,  participating on Slack, attending office hours and striving to turn in good work --- overall engagement will be used as a tie breaker when your score is between two grades.  
+__Class engagement:__ This means attending class, working with your group in the lab, asking questions, engaging in discussions, volunteering answers,  participating on Slack, attending office hours and striving to turn in good work. Overall engagement will be used as a tie breaker when your score is between two grades.  
 
 
 
@@ -87,16 +87,16 @@ Class engagement:  Attending class, working with your group in the lab, asking q
 
 ### What you can expect from me: 
 
-My goal is to teach a class that's similar to algorithms classes at peer institutions. The  syllabus is packed and you will find the pace and the problems challenging. Many of the problems in labs and assignments come from algorithms classes at top research universities such as Stanford, MIT, Berkeley speaking of that, I am a big fan and grateful for open resources, and this is the reason I keep this website on github rather than behind Canvas).   Some of you will go on to software engineering careers where  a strong algorithmic background is a must.  Many of you will go through technical interviews which draw heavily from the content of this class. It is important to pack  many topics  in the syllabus and expose you to many new problems.  Ultimately the goal of the class is to give you the tools so that  you can come up with solutions to new problems on your own.   A strong algorithmic backgound will elevate your analytical and abstraction skills and will be a big advantage to your  career path, whatever it might be. 
+My goal is to teach a class that's similar to algorithms classes at peer institutions. The  syllabus is packed and you will find the pace and the problems challenging. Many of the problems in labs and assignments come from algorithms classes at top research universities such as Stanford, MIT, Berkeley, etc.  Speaking of that, I am a big fan of and grateful for open resources, and this is the reason I keep this website on _github_ rather than behind Canvas.   Some of you will go on to software engineering careers where  a strong algorithmic background is a must.  Many of you will go through technical interviews which draw heavily from the content of this class. It is important to pack  many topics  in the syllabus and expose you to challenging new problems.  Ultimately the goal of the class is to give you the tools so that  you can come up with solutions to new problems on your own.   A strong algorithmic backgound will elevate your analytical and abstraction skills and will be a big advantage to your  career path, whatever it might be. 
 
-My teaching style is to create a friendly, open atmosphere where everyone feels comfortable and motivated to learn. There are no stupid questions. Any question is a sign that you want to engage. Based on my experience, the most effective learning happens when YOU (the students) work well together.  Open collaboration in the lab will be highly encouraged. Assignments are pair-optional, although everyone is highly encouraged to find a partner.  To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, many with solutions. Please help me make this class great by staying engaged and by giving me feedback.
+My teaching style is to create a friendly, open atmosphere where everyone feels comfortable and motivated to learn. There are no stupid questions. Any question is a sign that you want to engage. Based on my experience, the most effective learning happens when YOU (the class) work well together.  Open collaboration in the lab will be highly encouraged. Assignments are pair-optional, although everyone is highly encouraged to find a partner.  To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, many with solutions. Please help me make this class great by staying engaged and by giving me feedback (even if I don't ask for it)! Feedback is always welcome. 
 
 I know there are circumstances in our lives that we can't control. If you  have any (significant) circumstances that make learning hard, just talk to me, and we will work together to make an alternate plan. 
 
 
 
 ### Key Tips
-You will  find this class to be difficult, especially in the second half. What makes it hard is that the material is theoretical and spans many levels of abstraction, and that coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions.   Working on an algorithms assignment may seem easier than working on a programming assignment in Data Structures (argh, those bugs): When you write code, the process of getting your code to work forces you to correct your logic until it runs.   When you come up with an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. Thinking through your idea and all the cases that might happen --- it all happens in your head. There is no computer to tell you that you have bugs, _YOU_ need to do that. It will be easy to come up with  solutions that work partially.  The hard part will be coming up with a fully correct algorithm. That's the beauty of it. 
+You will  find this class to be difficult, especially in the second half. What makes it hard is that the material is theoretical and spans many levels of abstraction, and that coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions.   Working on an algorithms assignment will seem easier than working on a programming assignment in Data Structures (argh, those bugs). When you write code, the process of getting your code to work forces you to correct your logic until it is correct and the program does what it's supposed to do.   When you come up with an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. Thinking through your idea and all the cases that might happen --- it all happens in your head. There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. Yes, in this class it will be easy to come up with  solutions/algorithms that work partially.  The hard part will be coming up with a fully correct and efficient algorithm. That's the beauty of it. 
 
 
 
@@ -104,13 +104,13 @@ Here are some suggestions for doing well :
 
 * Budget your time  and give yourself plenty of time to read the materials and work on the assignments each week. Plan on at least 10 hours a week, and make a schedule which you follow every week. 
 
-* Be pro-active about things that are not clear. There's a lot of helpful free resources out there. Just search on the Internet. 
+* Be pro-active about things that are not clear. There's a lot of helpful free resources out there. Just search on the Internet. Really, that's ~~allowed~~ encouraged).
 
 * Self-reflection: Try to formulate questions, and try to answer them yourself.
 
 * Find a group of peers to work with. Explain your ideas, and listen to theirs. Try to argue why an idea is correct, or try to prove it wrong by finding an instance where it does not work.
 
-* Come to office hours, join the study groups and talk to the TAs; Listen to your peers' questions and get your questions answered.
+* Go to the study groups/office hours and talk to myself and the TAs; Listen to your peers' questions and get your questions answered.
 Solve all problems that are assigned, even those that are optional.
 
 * Don't be harsh on yourself if you are not doing as well as you expected. It takes time to learn, and often we learn (more) from mistakes! 
