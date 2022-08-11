@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: --Prechecks & Quizzes
+title: Quizzes
 nav_order: 9
 ---
 
