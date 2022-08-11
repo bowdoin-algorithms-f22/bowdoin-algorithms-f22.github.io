@@ -1,7 +1,7 @@
 ---
 layout: default 
 title:  --Weekly schedule and lectures
-nav_order: 4
+nav_order:6
 ---
 
 
