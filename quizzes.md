@@ -5,7 +5,7 @@ nav_order: 9
 ---
 
 
-### Prechecks and Quizzes (Spring'22)
+### Quizzes (Fall'22)
 
 * There will be prechecks and quizzes every week; they  will be released on Blackboard. 
 
