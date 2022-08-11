@@ -1,14 +1,14 @@
 ---
 layout: default 
-title: --Assignments 
+title: Assignments 
 nav_order: 8
 ---
 
 
-### Assignments (Spring'22)
+### Assignments (Fall'22)
 
 
-There will be a total of 13 assignments, roughly one every week.  
+There will be 13 assignments, roughly one every week.  
 
 The problems in the assignments have been carefully chosen in order to provide an opportunity to learn deeper.  Remember that one of the goals of the class is to provide the conceptual tools so that you can come up with _solutions to new problems on your own_. The assignments are working towards this goal.  Do not expect to sit down for an hour and solve everything at once (if you do, please let us know!). Instead, expect a process: read the problems, understand what they are asking, come up with initial ideas, figure out why they work or not, try to formulate questions, come up with improvements. The whole process is supposed to be interactive between you and your homework partner, your TAs, and myself. 
 
