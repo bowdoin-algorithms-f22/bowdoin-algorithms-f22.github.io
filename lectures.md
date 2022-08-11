@@ -1,11 +1,11 @@
 ---
 layout: default 
-title:  Detailed schedule
+title: Detailed schedule
 nav_order:6
 ---
 
 
-## blabablabla
+### Detailed schedule (Fall'22)
 
 
 ### Week 1: Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
