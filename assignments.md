@@ -10,11 +10,11 @@ nav_order: 8
 
 There are a total of O(10) assignments throughout the semester, roughly one per week.  The problems in the assignments have been carefully chosen to provide an opportunity to learn deeper.  Remember that one of the goals of the class is to provide the conceptual tools so that you can come up with solutions to new problems on your own. The assignments are working towards this goal.  Do not expect to sit down for an hour and solve everything at once (if you do, please let us know!). Instead, expect a process: read the problems, understand what they are asking, come up with initial ideas, figure out why they work or not, try to formulate questions, come up with improvements. The whole process is supposed to be interactive between you, your partner and the LAs in the study groups. 
 
-An important goal of the assignments is to develop a good algorithmic writing style — your solutions need to look professional, concise and complete, easy to understand, neat, with justification of why it works and analysis of the running time.
+__Style:__ An important goal of the assignments is to develop a good algorithmic writing style — your solutions need to look professional and easy to understand (think: page from a textbook).  See guidelines below. 
 
-__Pair optional:__ For each assignment you may choose to work alone, or with (at most) __one__ partner.  remember to check out the _partner collaboration policy_ under _Policies_. 
+ __Turn in on Gradescope.__ The assignments will be  released on Gradescope, and you need to submit your solution on Gradescope. One member of the team should submit the assignment and should  add the other member to the "team" so that (s)he  can get the credit. 
 
- __Gradescope.__ The assignments will be  released on Gradescope, and you need to submit your solution on Gradescope. One member of the team should submit the assignment and should  add the other members to the "team" so that the other member can get the credit. The assignments are listed below  for quick access. 
+The assignments are listed below  for quick access. 
    - [Assignment 1](/docs/hw1.pdf) 
    - [Assignment 2](/docs/hw2.pdf)
    - [Assignment 3](/docs/hw3.pdf)
