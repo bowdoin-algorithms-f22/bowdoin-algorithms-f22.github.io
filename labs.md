@@ -1,10 +1,10 @@
 ---
 layout: default 
-title: Labs 
+title: --Labs 
 nav_order: 7
 ---
 
-### --Labs 
+### Labs 
 
 The weekly lab consists of a problem set focused on the topics discussed that week. The  problems are meant to be solved in class, during the designated lab time, working with your group.  Myself and the LAs will be around to work with the groups, facilitate discussions and answer questions.
 
