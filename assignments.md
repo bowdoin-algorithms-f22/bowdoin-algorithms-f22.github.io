@@ -12,12 +12,11 @@ There are a total of O(10) assignments throughout the semester, roughly one per 
 
  __Turn in on Gradescope.__ The assignments will be  released on Gradescope, and you need to submit your solution on Gradescope. One member of the team should submit the assignment and should  add the other member to the "team" so that (s)he  can get the credit. 
 
-__Style:__ An important goal of the assignments is to develop a good algorithmic writing style — your solutions need to look professional and easy to understand (think: page from a textbook).  See guidelines below. 
+__Honor code:__ Assignmentsare at collaboration-level 1; that is, verbal collaboration without solution sharing (check course policies for details on what this means).  There are lots of resources online, such as lecture notes, animations, visualizations, practice problems, video recordings, which you are encouraged to explore to help you understand the material. __However, you must be careful not to search the internet for specific problems with the intent to get hints for their solutions. Searching for the assignment problems on the internet violates academic honesty for this class.__
 
+__Partner optional:__  You may work with one partner (see course policies for details on what this means). 
 
-### Assignment Guidelines
-
-_Credit:  inspired by [...]  most recently by [Stanford University, cs161](http://www-leland.stanford.edu/class/cs161/homework.html)_
+__Assignment style guidelines:__ An important goal of the assignments is to develop a good algorithmic writing style — your solutions need to look professional and easy to understand (think: page from a textbook).  _Credit:  inspired by [...]  most recently by [Stanford University, cs161](http://www-leland.stanford.edu/class/cs161/homework.html)_
 
 * Please type. Feel free to annotate the pdf to add figures and formulas. 
 
