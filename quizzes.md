@@ -10,6 +10,8 @@ nav_order: 9
 There will be a total of O(10) online quizzes, roughly one per week.  The quizzes are a combination of multiple-choice and short-answer questions that test the knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week. You’ll take the quizzes remotely from your room. All quizzes are weighed equally (although the number of questions in each will be different).
 
 The quizzes will be released in Canvas and there you will will  find the planned due dates. 
+
+
 __Quizzes honor code__: 
 - The quizzes are __closed__ book and notes; you may __not__ consult any resource that may give you a hint on how to solve the problems.  
 
