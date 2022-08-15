@@ -1,11 +1,11 @@
 ---
 layout: default 
-title: Quizzes
+title: --Quizzes
 nav_order: 9
 ---
 
 
-### --Quizzes 
+### Quizzes 
 
 There will be a total of O(10) online quizzes, roughly one per week. The quizzes will be released in Canvas and there you will will also find the planned due dates.  The quizzes are a combination of multiple-choice and short-answer questions that test the knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week. You’ll take the quizzes remotely from your room. All quizzes are weighed equally (although the number of questions in each will be different).
 
