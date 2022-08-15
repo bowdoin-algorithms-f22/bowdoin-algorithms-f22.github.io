@@ -5,7 +5,7 @@ nav_order: 8
 ---
 
 
-### --Assignments (Fall'22)
+### --Assignments 
 
 
 There are a total of O(10) assignments throughout the semester, roughly one per week.  The problems in the assignments have been carefully chosen to provide an opportunity to learn deeper.  Remember that one of the goals of the class is to provide the conceptual tools so that you can come up with solutions to new problems on your own. The assignments are working towards this goal.  Do not expect to sit down for an hour and solve everything at once (if you do, please let us know!). Instead, expect a process: read the problems, understand what they are asking, come up with initial ideas, figure out why they work or not, try to formulate questions, come up with improvements. The whole process is supposed to be interactive between you, your partner and the LAs in the study groups. 
