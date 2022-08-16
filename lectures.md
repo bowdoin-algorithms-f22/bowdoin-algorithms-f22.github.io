@@ -173,7 +173,7 @@ __Objectives:__
 __Resources:__
   * __Lecture notes:__ [LN-divideAndConquer.pdf](docs/week7-LN-divideAndConquer.pdf)
    * __Lab:__   [Lab7](docs/lab7.pdf)
-  * __Quiz:__      Quiz7 in Canvas
+  * __Quiz:__      Quiz6 in Canvas
   * __Assignment:__ [Assignment 7](docs/hw7.pdf) in Gradescope
          
  ***
@@ -193,7 +193,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
  * __Lab:__   [Lab8](docs/lab8.pdf) 
-* __Quiz:__    Quiz8  in Canvas
+* __Quiz:__    Quiz7  in Canvas
 * __Assignment:__ [Assignment 8](docs/hw8.pdf) in Gradescope
    
   
@@ -215,7 +215,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf), [knapsack.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
 * __Lab:__   [Lab9](docs/lab9.pdf) 
-* __Quiz:__      Quiz9 in Canvas     
+* __Quiz:__      Quiz8 in Canvas     
 * __Assignment:__ [Assignment 9](docs/hw9.pdf) in Gradescope
    
  ***
@@ -256,7 +256,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
 * __Lab:__   [Lab11](docs/lab11.pdf) 
-* __Quiz:__    Quiz11  in Canvas
+* __Quiz:__    Quiz9  in Canvas
 * __Assignment:__ [Assignment 11](docs/hw11.pdf) in Gradescope
 
 ***
@@ -278,7 +278,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
 * __Lab:__   [Lab12](docs/lab12.pdf)  
-* __Quiz:__   Quiz12  in Canvas
+* __Quiz:__   Quiz10  in Canvas
 * __Assignment:__ [Assignment 12](docs/hw12.pdf) in Gradescope
   
  ***
@@ -298,7 +298,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-shpaths.pdf](docs/week13-LN-shpaths.pdf)
 *  __Lab:__   [Lab13](docs/lab13.pdf) 
-* __Quiz:__   Quiz13  in Canvas
+* __Quiz:__   Quiz11  in Canvas
 * __Assignment:__ [Assignment 13](docs/hw13.pdf) in Gradescope
                    
  ***
@@ -319,7 +319,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), [LN-review.pdf](docs/week14-LN-review.pdf),
    * __Lab:__   [Lab14](docs/lab14.pdf) 
-* __Quiz:__   Quiz14  in Canvas   
+* __Quiz:__   Quiz12  in Canvas   
 * __Assignment:__  
                       
 ***
