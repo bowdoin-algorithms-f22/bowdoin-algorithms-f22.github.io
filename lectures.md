@@ -33,11 +33,11 @@ _Sep 5- 9_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 
-The goal of weeks 2, 3 is to give you the conceptual tools  to analyze algorithms.  This week (week 2) we start by introducing the concepts of "asymptotic" analysis  and "order of growth". The order of growth is analyzed with O(), Ω() and Θ() notation. We'll give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient. 
+The goal of the next two weeks  is to give you the conceptual tools  to analyze algorithms.  This week  we start by introducing the concepts of "asymptotic" analysis  and "order of growth". The order of growth is analyzed with O(), Ω() and Θ() notation. We'll give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient. 
 
 When analyzing algorithms it is common to encounter the so-called "summations".  We introduce the two basic summations that come up most often in the analysis of algorithms: arithmetic and geometric summations. 
 
-This part of the class is heavy on discrete math like logarithms, exponents, limits and recursive functions, which most of you have not seen in a long time.  Hang in there!  The bright side is that there are formulas and rules for everything and it's just a matter of practice.  Give yourself time to practice and expect it will take time.  I have included many exercises and examples.
+This part of the class is heavy on discrete math like logarithms, exponents, limits and recursive functions, which most of you have not seen in a long time.  Hang in there!  The bright side is that there are formulas and rules for everything and it's just a matter of practice.  Give yourself time to practice and expect it will take time.  
 
 Once this module is over, you'll know enough to be able to analyze pretty much anything.  In the next modules you'll see analysis tools at work on some pretty neat algorithms.  
 
@@ -68,7 +68,7 @@ __Resources:__
 ### Week 3: Mergesort and Recurrences
 _Sep 12-16_
 
-This week we continue with the topic of analysis and  introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  We express the running time of Mergesort   using a recurrence, which solves to O(n lg n).  Mergesort is the first algorithm we see in this class which beats the quadratic sorting algorithms from  previous lectures. 
+This week we continue with the topic of analysis and  introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  We express the running time of Mergesort   using a recurrence, which solves to O(n lg n).  Mergesort is the first algorithm we see in this class which beats the quadratic bound. 
 
 __Objectives:__ 
 * Understand Mergesort: how it works, why it works, and its running time analysis
@@ -99,8 +99,7 @@ __Objectives:__
 * Understand Randomized-Quicksort and its analyzis
 
 __Resources:__     
-* __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf)
-	* __Slides:__  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
+* __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf),  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
 * __Lab:__   [Lab4](docs/lab4.pdf) 
 * __Quiz:__      Quiz4 in Canvas
 * __Assignment:__ [Assignment 4](docs/hw4.pdf) in  Gradescope
@@ -125,7 +124,7 @@ __Resources:__
   * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
  * __Lab:__   [Lab5](docs/lab5.pdf) 
  * __Quiz:__      Quiz5 in Canvas
- * __Assignment:__ [Assignment 5](docs/hw5.pdf] in Gradescope
+ * __Assignment:__ [Assignment 5](docs/hw5.pdf) in Gradescope
  *          
  ***
 
