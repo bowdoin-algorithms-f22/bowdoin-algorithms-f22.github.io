@@ -33,7 +33,7 @@ _Sep 5- 9_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 
-The goal of the next two weeks  is to give you the conceptual tools  to analyze algorithms.  This week  we start by introducing the concepts of "asymptotic" analysis  and "order of growth". The order of growth is analyzed with O(), Ω() and Θ() notation. We'll give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient. 
+The goal of the next two weeks  is to give you the conceptual tools  to analyze algorithms.  We start by introducing the concepts of "asymptotic" analysis  and "order of growth". The order of growth is analyzed with O(), Ω() and Θ() notation. We'll give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient. 
 
 When analyzing algorithms it is common to encounter the so-called "summations".  We introduce the two basic summations that come up most often in the analysis of algorithms: arithmetic and geometric summations. 
 
@@ -113,7 +113,7 @@ _Sep 26-30_
 
 We have seen the most important  sorting algorithms so far and all of them have worst-case running time at least Ω(n lg n). The natural question to ask is: Can we do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound, and show that sorting lower bound in the comparison model of computation is Ω(n lg n). We describe a couple of different ways to sort which do not use the comparison model and under certain assumptions achieve linear time (bucket sort and counting sort). This concludes the module on sorting. 
 
-This week we introduce a new problem: the __selection__ problem.  Given a set S of n elements, {x_1, x_2, ..., x_n} and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
+The second topic this week is the __selection__ problem.  Given a set S of n elements, {x_1, x_2, ..., x_n} and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
 
 __Objectives:__ 
 * Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
@@ -162,7 +162,7 @@ _Oct  12-14_
 
 What do you do when you want to solve a problem and you don't know where to start?  Coming up with solutions is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  By now you have some practice, and you perhaps noticed that some of the problems have similar solutions. We'll spend the next three weeks looking at more problems,  grouped by the technique used to solve them. 
 
-This week we introduce a  technique called __divide-and-conquer__. In fact you already saw this technique at work in Mergesort. This week we give more examples of problems that can be  solved via divide-and-conquer, including the famous Strassen's matrix multiplication algorithm. 
+We introduce a  technique called __divide-and-conquer__. In fact you already saw this technique at work in Mergesort. This week we give more examples of problems that can be  solved via divide-and-conquer, including the famous Strassen's matrix multiplication algorithm. 
 
 __Objectives:__ 
 * Understand how  D&C works in general 
@@ -182,7 +182,7 @@ __Resources:__
 ### Week 8: Dynamic Programming 
 _Oct 17-21_
 
-This week we introduce the technique called _dynamic programming_ and see it at work on  three problems: Fibonacci, board game and rod cutting. 
+We introduce the technique called _dynamic programming_ and see it at work on  three problems: Fibonacci, board game and rod cutting. 
 
 __Objectives:__ 
 * Understand  the basic principles of dynamic programming  
@@ -203,7 +203,7 @@ __Resources:__
 ### Week 9: More DP examples; Greedy algorithms 
 _Oct 24-28_
 
-This week we add more ddynamic programming examples, and we introduce the greedy technique via the _activity selection_ problem. 
+We add more ddynamic programming examples, and we introduce the greedy technique via the _activity selection_ problem. 
 
 __Objectives:__ 
 * Understand the knapsack problem 
@@ -225,7 +225,7 @@ __Resources:__
 ### Week 10: 
 _Oct 31-Nov 4_
 
-This week we'll wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing  a couple more examples of  these techniques at work. 
+We wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing  a couple more examples of  these techniques at work. 
 
 __Objectives:__ 
 * Reflect on the problems we've looked at and compare on how the general technique was instantiated  for that specific problem. 
@@ -265,7 +265,7 @@ __Resources:__
 ### Week 12 :  Application of BFS and DFS. Topological order. Shortest paths on DAGs.  
 _Nov 14-18_
 
-This week  we introduce the problem of a computing topological order on a directed acyclic graph (DAG).  Then we look at how  topological order can be used to solve various other problems on DAGs, including a simple algorithm for  computing shortest paths on a DAG. 
+W introduce the problem of a computing topological order on a directed acyclic graph (DAG).  Then we look at how  topological order can be used to solve various other problems on DAGs, including a simple algorithm for  computing shortest paths on a DAG. 
 
 __Objectives:__ 
 * Understand the applications of graph traversal to basic problems on directed and undirected graphs
@@ -288,8 +288,8 @@ __Resources:__
 ### Week 13, 14: Shortest paths. 
 _Nov 21-Dec 2_
 
-We discuss computing shortest paths in graphs, and see some of the nicest algorithms in Computer's Science: Dijkstra's algorithm and Bellman-Ford's algorithm. While describing them we try to understand some common principles that guided their design.
-Bellman-Ford's algorithm uses dynamic programming and Dijkstra's algorithm is a greedy algorithm.   These are new applications of the problem solving techniques we discussed in the previous weeks! 
+We discuss computing shortest paths on graphs, and see some of the nicest algorithms in computer science: Dijkstra's algorithm and Bellman-Ford's algorithm. While describing them we try to understand some common principles that guided their design.
+We'll see that Bellman-Ford's algorithm uses dynamic programming and Dijkstra's  is a greedy algorithm, making these nice applications of the techniques we studied earlier in the semester. 
 
 __Objectives:__ 
 * Understand the algorithms for computing shortest paths explained in the notes:  how they work, why they work, and their complexity
@@ -307,7 +307,7 @@ __Resources:__
 ### Week 15: Minimum spanning tree. Final review. 
 _Dec 5-9_
 
-This final week we'll introduce  another fundamental problem on graphs, the Minimum Spanning Tree (MST). We'll see a couple of properties of MSTs which will get us intuition for how to compute an MST efficiently. We'll glance at two well-known algorithms, Prim's and Kruskal's,  which are both greedy algorithms much in the spirit of Dijkstra.  Their correctness follows from a neat result called The Cut Theorem.   
+We  introduce  another fundamental problem on graphs, the Minimum Spanning Tree (MST). We'll see a couple of properties of MSTs which will get us intuition for how to compute an MST efficiently. We'll glance at two well-known algorithms, Prim's and Kruskal's,  which are both greedy algorithms much in the spirit of Dijkstra.  Their correctness follows from a neat result called The Cut Theorem.   
 
 This last week we'll also do a quick review and work on some extra fun problems!
 
@@ -317,13 +317,12 @@ __Objectives:__
 
 __Resources:__
 * __Lecture notes:__ [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), [LN-review.pdf](docs/week14-LN-review.pdf),
-   * __Lab:__   [Lab14](docs/lab14.pdf) 
+* __Lab:__   [Lab14](docs/lab14.pdf) 
 * __Quiz:__   Quiz12  in Canvas   
-* __Assignment:__  
+
                       
 ***
 
-The final exam: see day/time and location in Polaris.  
-
+Final exam: see day/time and location in Polaris.  
 
 ***
