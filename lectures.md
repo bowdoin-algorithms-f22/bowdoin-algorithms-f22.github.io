@@ -20,7 +20,7 @@ __Objectives:__
 __Resources:__     
   * __Lecture:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf)     
   *  __Lab:__   [Lab 1](docs/lab1.pdf)
-  * __Quiz:__    Quiz1  (in Canvas)
+  * __Quiz:__    Quiz1  in Canvas
   * __Assignment:__ [Assignment1](docs/hw1.pdf) in Gradescope
   
  ***
@@ -35,11 +35,11 @@ Joke: An infinite number of computer scientists walk into a bar. The first one o
 
 The goal of weeks 2, 3 is to give you the conceptual tools  to analyze algorithms.  This week (week 2) we start by introducing the concepts of "asymptotic" analysis  and "order of growth". The order of growth is analyzed with O(), Ω() and Θ() notation. We'll give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient. 
 
-When analyzing algorithms it is common to encounter the so-called "summations".  In fact, you already encountered a summation when you tried to analyze Selection Sort or Insertion Sort!  We introduce the two basic summations that come up most often in the analysis of algorithms: arithmetic and geometric summations. 
+When analyzing algorithms it is common to encounter the so-called "summations".  We introduce the two basic summations that come up most often in the analysis of algorithms: arithmetic and geometric summations. 
 
-This part of the class is heavy on discrete math like logarithms, exponents, limits and recursive functions, which most of you have not seen in a long time.  Hang in there!  The bright side is that there are formulas and rules for everything and it's just a matter of practice.  Really.  Give yourself time to practice and expect it will take time.  I have included many exercises and examples  which will help you through.  It is really important that you budget plenty of time. 
+This part of the class is heavy on discrete math like logarithms, exponents, limits and recursive functions, which most of you have not seen in a long time.  Hang in there!  The bright side is that there are formulas and rules for everything and it's just a matter of practice.  Give yourself time to practice and expect it will take time.  I have included many exercises and examples.
 
-If you are not fond of analysis, I have some good news: once this module is over, you'll know enough to be able to analyze pretty much anything!  The remaining of the semester will be focused on new algorithms.  If you like analysis, I have some good news for you as well:  In the next modules you'll see analysis tools at work on some pretty neat algorithms.  
+Once this module is over, you'll know enough to be able to analyze pretty much anything.  In the next modules you'll see analysis tools at work on some pretty neat algorithms.  
 
 
 __Objectives:__ 
