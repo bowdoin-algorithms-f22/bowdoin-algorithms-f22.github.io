@@ -9,7 +9,7 @@ nav_order: 6
 
 ### Week 1: Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
 
-_Jan 24-28_
+_Aug 31, Sep 1_
 
 We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are probably familiar with most of this content from Data Structures (if this  content is new, you'll need to budget more time this first week to understand these new concepts). 
 
@@ -20,8 +20,8 @@ __Objectives:__ By the end of this  week you should be able to:
 __Resources:__     
   * __Lecture:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf)     
   *  __Lab:__   [Lab 1](docs/lab1.pdf)
-  * __Quiz:__    Quiz1  (on Blackboard)
-  * __Assignment:__ Assignment1 (on Gradescope)
+  * __Quiz:__    Quiz1  (in Canvas)
+  * __Assignment:__ [Assignment1](docs/hw1.pdf) (submit in Gradescope)
   
  ***
  
@@ -29,7 +29,7 @@ __Resources:__
  
 ### Week 2: Asymptotic Notation and Summations
 
-_Jan 31- Feb 4_
+_Sep 5- 9_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 
@@ -56,8 +56,8 @@ __Objectives:__ By the end of this  week you should be able to:
 __Resources:__    
   * __Lecture:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
   * __Lab:__   [Lab2](docs/lab2.pdf) 
-  * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   Quiz2: see Blackboard
-  * __Assignment:__  Assignment 2 (on Gradescope)
+  * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   Quiz2 in Canvas
+  * __Assignment:__  [Assignment 2](docs/hw2.pdf)(submit in Gradescope)
   
 ***
    
@@ -66,7 +66,7 @@ __Resources:__
    
    
 ### Week 3: Mergesort and Recurrences
-_Feb 7-11_
+_Sep 12-16_
 
 This week we continue with the topic of analysis and  introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  We express the running time of Mergesort   using a recurrence, which solves to O(n lg n).  Mergesort is the first algorithm we see in this class which beats the quadratic sorting algorithms from  previous lectures. 
 
@@ -79,15 +79,15 @@ __Objectives:__ By the end of this  week you should be able to:
 __Resources:__    
   * __Lecture:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
    * __Lab:__   [Lab3](docs/lab3.pdf) 
-  * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; Quiz3: see Blackboard
-  * __Assignment:__ Assignment 3 (on Gradescope)
+  * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; Quiz3 in Canvas 
+  * __Assignment:__ [Assignment 3](docs/hw3.pdf) (submit in Gradescope)
    
  ***
 
 
 
 ### Week 4: Heapsort and Quicksort
-_Feb 14-18_
+_Sep 19-23_
 
 So far we have discussed tools necessary for analyzing algorithms (asymptotic notation, summations and recurrences) and we have seen a couple of sorting algorithms at work. This week we introduce new sorting algorithms: Heapsort, Quicksort, and it's randomized version, Randomized-Quicksort. Heapsort is based on the heap, which is the standard implementation of a priority queue. Randomized-Quicksort is considered the most efficient general-purpose sorting algorithm in practice.
 
@@ -102,8 +102,8 @@ __Resources:__
 * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf)
 	* __Slides:__  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
 * __Lab:__   [Lab4](docs/lab4.pdf) 
-* __Quiz:__      Quiz4 see Blackboard
-* __Assignment:__ Assignment 4  (on Gradescope)
+* __Quiz:__      Quiz4 see Canvas
+* __Assignment:__ [Assignment 4](docs/hw4.pdf) (submit in  Gradescope)
 
  ***
   
