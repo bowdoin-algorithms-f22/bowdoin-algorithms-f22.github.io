@@ -22,7 +22,7 @@ Below is a list of resources  (by no means exhaustive) which I used and which I 
   * Visualizations with [visualgo](https://visualgo.net/en)
   * Mergesort [demo](https://www.cs.princeton.edu/courses/archive/fall06/cos226/demo/merge/) 
   * Sorting [vizualization](https://www.toptal.com/developers/sorting-algorithms)
-  *  [Stanford CS 161](http://www-leland.stanford.edu/class/cs161/index.html) 
+  *  [Stanford CS 161](https://stanford-cs161.github.io/summer2022/)
   *  UIUC [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
   *  Tim Roughgarden's [algorithms](https://timroughgarden.org/videos.html)
   *  Tim Roughgarden's [Stanford algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
