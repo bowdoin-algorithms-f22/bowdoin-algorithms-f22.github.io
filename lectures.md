@@ -20,8 +20,7 @@ __Objectives:__
 __Resources:__     
   * __Lecture:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf)     
   *  __Lab:__   [Lab 1](docs/lab1.pdf)
-  * __Quiz:__    Quiz1  in Canvas
-  * __Assignment:__ [Assignment1](docs/hw1.pdf) in Gradescope
+  * __Assignment:__ Week1 quiz in Canvas, [Assignment1](docs/hw1.pdf) in Gradescope
   
  ***
  
@@ -54,10 +53,9 @@ __Objectives:__
 
 
 __Resources:__    
-  * __Lecture:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
+  * __Lecture:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf), [quiz2-practice.pdf](docs/week2-quiz-practice.pdf)
   * __Lab:__   [Lab2](docs/lab2.pdf) 
-  * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   Quiz2 in Canvas
-  * __Assignment:__  [Assignment 2](docs/hw2.pdf) in Gradescope
+  * __Assignment:__   Week2 quiz in Canvas, [Assignment 2](docs/hw2.pdf) in Gradescope
   
 ***
    
@@ -77,10 +75,9 @@ __Objectives:__
 * Recognize broadly classes of recurrences ( logarithmic, linear, Θ(n lg n), exponential)
 
 __Resources:__    
-  * __Lecture:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
+  * __Lecture:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf), [quiz3-practice.pdf](docs/week3-quiz-practice.pdf)
    * __Lab:__   [Lab3](docs/lab3.pdf) 
-  * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; Quiz3 in Canvas 
-  * __Assignment:__ [Assignment 3](docs/hw3.pdf) in Gradescope
+  * __Assignment:__ Week3 quiz in Canvas, [Assignment 3](docs/hw3.pdf) in Gradescope
    
  ***
 
@@ -100,9 +97,8 @@ __Objectives:__
 
 __Resources:__     
 * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf),  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
-* __Lab:__   [Lab4](docs/lab4.pdf) 
-* __Quiz:__      Quiz4 in Canvas
-* __Assignment:__ [Assignment 4](docs/hw4.pdf) in  Gradescope
+* __Lab:__   [Lab4](docs/lab4.pdf)   
+* __Assignment:__ Week4 quiz in Canvas, [Assignment 4](docs/hw4.pdf) in  Gradescope
 
  ***
   
@@ -123,8 +119,7 @@ __Objectives:__
 __Resources:__     
   * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
  * __Lab:__   [Lab5](docs/lab5.pdf) 
- * __Quiz:__      Quiz5 in Canvas
- * __Assignment:__ [Assignment 5](docs/hw5.pdf) in Gradescope
+ * __Assignment:__  Week5 quiz in Canvas, [Assignment 5](docs/hw5.pdf) in Gradescope
  *          
  ***
 
@@ -147,7 +142,7 @@ __Objectives:__ This week's objective is algorithmic problem solving.
 __Resources:__
   * __Lecture notes:__ [python-mysterySort.ipynb](docs/week6-mysterySort.ipynb), [python-insertionSort.ipynb](docs/week6-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-quickSort.ipynb)
   * __Lab:__   [Lab6](docs/lab6.pdf) 
-  * __Quiz:__    Exam1 in class
+  *   Exam1 in class
   * __Assignment:__ [Assignment 6](docs/hw6.pdf) in Gradescope
     
  ***
@@ -172,8 +167,7 @@ __Objectives:__
 __Resources:__
   * __Lecture notes:__ [LN-divideAndConquer.pdf](docs/week7-LN-divideAndConquer.pdf)
    * __Lab:__   [Lab7](docs/lab7.pdf)
-  * __Quiz:__      Quiz6 in Canvas
-  * __Assignment:__ [Assignment 7](docs/hw7.pdf) in Gradescope
+  * __Assignment:__ Week7 quiz in Canvas, [Assignment 7](docs/hw7.pdf) in Gradescope
          
  ***
  
@@ -192,8 +186,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
  * __Lab:__   [Lab8](docs/lab8.pdf) 
-* __Quiz:__    Quiz7  in Canvas
-* __Assignment:__ [Assignment 8](docs/hw8.pdf) in Gradescope
+* __Assignment:__  Week8 quiz in Canvas, [Assignment 8](docs/hw8.pdf) in Gradescope
    
   
  ***
@@ -214,8 +207,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf), [knapsack.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
 * __Lab:__   [Lab9](docs/lab9.pdf) 
-* __Quiz:__      Quiz8 in Canvas     
-* __Assignment:__ [Assignment 9](docs/hw9.pdf) in Gradescope
+* __Assignment:__ Week9 quiz in Canvas, [Assignment 9](docs/hw9.pdf) in Gradescope
    
  ***
 
@@ -234,7 +226,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf) ; [LN-review.pdf](docs/week10-LN-review.pdf)
 * __Lab:__   [Lab10](docs/lab10.pdf) 
-* __Quiz:__   Exam 2 in class
+*  Exam 2 in class
 * __Assignment:__ [Assignment 10](docs/hw10.pdf) in Gradescope 
 
 ***
@@ -255,8 +247,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
 * __Lab:__   [Lab11](docs/lab11.pdf) 
-* __Quiz:__    Quiz9  in Canvas
-* __Assignment:__ [Assignment 11](docs/hw11.pdf) in Gradescope
+* __Assignment:__ Week11 quiz in Canvas, [Assignment 11](docs/hw11.pdf) in Gradescope
 
 ***
  
@@ -277,8 +268,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
 * __Lab:__   [Lab12](docs/lab12.pdf)  
-* __Quiz:__   Quiz10  in Canvas
-* __Assignment:__ [Assignment 12](docs/hw12.pdf) in Gradescope
+* __Assignment:__ Week12 quiz in Canvas, [Assignment 12](docs/hw12.pdf) in Gradescope
   
  ***
  
@@ -297,8 +287,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-shpaths.pdf](docs/week13-LN-shpaths.pdf)
 *  __Lab:__   [Lab13](docs/lab13.pdf) 
-* __Quiz:__   Quiz11  in Canvas
-* __Assignment:__ [Assignment 13](docs/hw13.pdf) in Gradescope
+* __Assignment:__ Week 14 quiz in Canvas, [Assignment 13](docs/hw13.pdf) in Gradescope
                    
  ***
  
@@ -318,7 +307,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), [LN-review.pdf](docs/week14-LN-review.pdf),
 * __Lab:__   [Lab14](docs/lab14.pdf) 
-* __Quiz:__   Quiz12  in Canvas   
+* __Assignment:__   Quiz  in Canvas   
 
                       
 ***
