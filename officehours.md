@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Office hours/Staff 
+title: Staff and office hours 
 nav_order: 4
 ---
 
@@ -9,7 +9,7 @@ nav_order: 4
 
 
 
-We have an exceptional group of LAs who are all excited to get to know and help everyone on their algorithmic journey. They will support the weekly labs, hold office hours/study groups and grade.  
+We have an exceptional group of LAs who will support the weekly labs, hold office hours/study groups and help with grading.  
 
  * Abby Mueller, Homer LaBranche, Vincent Han, Lily Smith, Alex Racape, Brian Liu, Jared Joyce, John Soeder, Jaida Hodge-Adams, Narmer Bazile, Dahlia Siegel-Zigmund, Aidan Carey, Zeb Becker
  
