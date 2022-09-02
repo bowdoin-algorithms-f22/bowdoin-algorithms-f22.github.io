@@ -71,7 +71,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Canvas":
-    - "https://canvas.bowdoin.com/"
+    - "https://bowdoin.instructure.com/courses/2303"
   "Gradescope":
     - "https://www.gradescope.com"
   "Slack": 
