@@ -12,7 +12,7 @@ nav_order: 4
 We have an exceptional group of LAs who will support the weekly labs, hold office hours/study groups and help with grading.  
  
 - Lab LAs: Lab A: Zeb Becker, Aidan Carey , Jaida Hodge-Adams. Lab B: Narmer Bazile, Lily Smith 
-- Office hours LAs: Zeb Becker,  Jared Joyce,  Brian Liu, Alex Racape, Dahlia Siegel-Zigmund,  John Soeder,
+- Office hours LAs: Zeb Becker,  Jared Joyce,  Brian Liu, Alex Racape, Dahlia Siegel-Zigmund,  John Soeder
 - Graders: Abby Mueller, Homer LaBranche, Vincent Han,  Narmer Bazile, Dahlia Siegel-Zigmund, Aidan Carey
 
 
