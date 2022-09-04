@@ -21,7 +21,7 @@ The weekly schedule **office hours/study groups**  is below.
 
 |              |   Time  (Who & location )  |
 |:-------------|:-------------|:---------------|
-| Sundays      |  2:30-4:30pm (Brian, Searleese 224) 
+| Sundays      |  2:30-4:30pm (Brian, Searles 224) 
 | Mondays      |  6-8pm (Zeb, Searles 224) 
 | Tuesdays     |  5-7pm (Dahlia, Searles 224)
 | Wednesdays   |  6-8pm (Alex, Searles 224) 
@@ -29,8 +29,8 @@ The weekly schedule **office hours/study groups**  is below.
 | Fridays      |  x
 | Saturdays    |  x
 
-The default location for the LA office hours is the computer science lab, Searles 224.  You should  have been given access to this rooom because you are enrolled in this class (if your ID does not open the room, please contact the CS & Math  coordinator, Sue Theberge, theberge at bowdoin dot  edu).  Occasional changes to this schedule  will be posted on Slack, so please monitor Slack to be up to date. 
 
 Laura's office hours: 
 - still tbd
 
+Occasional changes to this schedule  will be posted on Slack, so please monitor Slack to be up to date. 
