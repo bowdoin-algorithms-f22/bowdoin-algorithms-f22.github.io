@@ -16,7 +16,7 @@ We have an exceptional group of LAs who will support the weekly labs, hold offic
 - Graders: Abby Mueller, Homer LaBranche, Vincent Han,  Narmer Bazile, Dahlia Siegel-Zigmund, Aidan Carey
 
 
-The weekly schedule **office hours/study groups**  is below. 
+The weekly schedule for **office hours**  is below. 
 
 
 |              |   Time  (Who & location )  |
@@ -30,7 +30,6 @@ The weekly schedule **office hours/study groups**  is below.
 | Saturdays    |  x
 
 
-Laura's office hours: 
-- still tbd
+Laura's office hours:  Tuesdays 1:30-3pm  and wednesdays 1:30-3pm, in  Searles 219 
 
 Occasional changes to this schedule  will be posted on Slack, so please monitor Slack to be up to date. 
