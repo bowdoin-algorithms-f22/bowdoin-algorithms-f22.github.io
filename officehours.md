@@ -30,6 +30,6 @@ The weekly schedule for **office hours**  is below.
 | Saturdays    |  x
 
 
-Laura's office hours:  Tuesdays 1:30-3pm  and wednesdays 1:30-3pm, in  Searles 219 
+Laura's office hours:  Tuesdays 1:30-3pm  and Wednesdays 1:30-3pm, in  Searles 219 
 
 Occasional changes to this schedule  will be posted on Slack, so please monitor Slack to be up to date. 
