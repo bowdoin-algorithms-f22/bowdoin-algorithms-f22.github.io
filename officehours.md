@@ -23,13 +23,11 @@ The weekly schedule for **office hours**  is below.
 |:-------------|:-------------|:---------------|
 | Sundays      |  2:30-4:30pm (Brian, Searles 224) 
 | Mondays      |  6-8pm (Zeb, Searles 224) 
-| Tuesdays     |  5-7pm (Dahlia, Searles 224)
-| Wednesdays   |  6-8pm (Alex, Searles 224) 
+| Tuesdays     |  1:30-3pm (Laura, Searles 219); 5-7pm (Dahlia, Searles 224)
+| Wednesdays   |  1:30-3pm (Laura, Searles 219); 6-8pm (Alex, Searles 224) 
 | Thursdays    |  7-9pm (Jared, John, Searles 224)
 | Fridays      |  x
 | Saturdays    |  x
 
-
-Laura's office hours:  Tuesdays 1:30-3pm  and Wednesdays 1:30-3pm, in  Searles 219 
 
 Occasional changes to this schedule  will be posted on Slack, so please monitor Slack to be up to date. 
