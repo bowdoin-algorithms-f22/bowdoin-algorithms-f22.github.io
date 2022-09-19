@@ -32,7 +32,7 @@ _Sep 5- 9_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 
-The next two weeks cover the tools for algorithms analysis.  Asymptotic analysis is expressed with O(), Ω() and Θ() notation. We'll give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient.  We introduce the two summations that come up often: arithmetic and geometric summations. 
+The next two weeks introduce the tools for algorithms analysis.  Asymptotic analysis is expressed with O(), Ω() and Θ() notation. We give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient.  We introduce the two summations that come up often: arithmetic and geometric summations. 
 
 This part of the class is heavy on discrete math like logarithms, exponents, limits and recursive functions, which most of you have not seen in a long time.  The bright side is that there are formulas and rules for everything and it's just a matter of practice.  Give yourself time to practice and expect it will take time.   
 
