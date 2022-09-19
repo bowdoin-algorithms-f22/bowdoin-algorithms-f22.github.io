@@ -32,14 +32,11 @@ _Sep 5- 9_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 
-The next two weeks  will cover the conceptual tools  to analyze algorithms.  We start by introducing the concepts of "asymptotic" analysis  and "order of growth". The order of growth is analyzed with O(), Ω() and Θ() notation. We'll give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient. 
+The next two weeks  will cover the conceptual tools  to analyze algorithms.  Asymptotic analysis is expressed with O(), Ω() and Θ() notation. We'll give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient. 
 
-When analyzing algorithms it is common to encounter  summations.  We introduce the two summations that come up when analysing algorithms: arithmetic and geometric summations. 
+When analyzing algorithms it is common to encounter  summations.  We introduce the two summations that come up often: arithmetic and geometric summations. 
 
-This part of the class is heavy on discrete math like logarithms, exponents, limits and recursive functions, which most of you have not seen in a long time.  The bright side is that there are formulas and rules for everything and it's just a matter of practice.  Give yourself time to practice and expect it will take time.  
-
-Once this module is over, you'll know enough to be able to analyze pretty much anything.  In the next modules you'll see analysis tools at work on some pretty neat algorithms.  
-
+This part of the class is heavy on discrete math like logarithms, exponents, limits and recursive functions, which most of you have not seen in a long time.  The bright side is that there are formulas and rules for everything and it's just a matter of practice.  Give yourself time to practice and expect it will take time.   
 
 __Objectives:__ 
 * Understand the relevance of analysis in practice, as well as its assumptions and limitations
