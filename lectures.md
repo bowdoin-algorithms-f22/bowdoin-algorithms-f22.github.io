@@ -63,7 +63,7 @@ __Resources:__
 ### Week 3: Mergesort and Recurrences
 _Sep 12-16_
 
-This week we continue with the topic of analysis and  introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  We express the running time of Mergesort   using a recurrence, which solves to O(n lg n).  Mergesort is the first algorithm we see in this class which beats the quadratic bound. 
+We continue with analysis and introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  Mergesort is the first algorithm we see in this class which beats the quadratic bound. 
 
 __Objectives:__ 
 * Understand Mergesort: how it works, why it works, and its running time analysis
