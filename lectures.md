@@ -61,7 +61,7 @@ __Resources:__
 ### Week 3: Mergesort and Recurrences
 _Sep 12-16_
 
-We continue with analysis and introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  Mergesort is the first algorithm we see in this class which beats the quadratic bound. 
+We continue with analysis and introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence we introduce a new sorting algorithm called Mergesort.  Mergesort is the first algorithm we see in this class which beats the quadratic bound. 
 
 __Objectives:__ 
 * Understand Mergesort: how it works, why it works, and its running time analysis
@@ -81,14 +81,14 @@ __Resources:__
 ### Week 4: Heapsort and Quicksort
 _Sep 19-23_
 
-So far we discussed tools necessary for analyzing algorithms (asymptotic notation, summations and recurrences) and we have seen a couple of sorting algorithms at work. This week we introduce new sorting algorithms: Heapsort, Quicksort, and it's randomized version, Randomized-Quicksort.  Randomized-Quicksort is considered the most efficient general-purpose sort in practice.
+So far we discussed the tools necessary for analyzing algorithms (asymptotic notation, summations and recurrences) and we have seen a couple of sorting algorithms at work. This week we introduce new sorting algorithms: Heapsort, Quicksort, and it's randomized version, Randomized-Quicksort.  Randomized-Quicksort is considered the most efficient general-purpose sort in practice.
 
 __Objectives:__ 
-* Understand the interface of a Priority Queue
-* Understand how heaps are defined, the operations supported by a heap (Find-Min, DeleteMin, Insert, Heapify, Buildheap) and their Θ() bounds
-* Understand Heapsort
-* Understand Quicksort and its analysis
-* Understand Randomized-Quicksort and its analyzis
+* Understand  how the binary heap is defined and the operations supported  (deleteMin, insert, heapify, buildheap) along with their analysis 
+* Understand how Heapsort works in place 
+* Be able to use the heap as a tool to solve new problems 
+* Understand Quicksort, Randomized-Quicksort and analyzis
+
 
 __Resources:__     
 * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf),  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
@@ -102,14 +102,14 @@ __Resources:__
 ### Week 5: Sorting lower bound. Faster sorting. Selection. 
 _Sep 26-30_
 
-We have seen the most important  sorting algorithms so far and all of them have worst-case running time at least Ω(n lg n). The natural question is: Can we do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound, and show that sorting lower bound in the comparison model of computation is Ω(n lg n). We describe a couple of different ways to sort which do not use the comparison model and under certain assumptions achieve linear time (bucket sort and counting sort). This concludes the module on sorting. 
+We have seen the most important  sorting algorithms so far and all of them have worst-case running time at least Ω(n lg n). The natural question is: Can a sorting algorithm do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound, and show that the  lower bound for sorting in the comparison model of computation is Ω(n lg n). We describe a couple of different ways to sort (bucket sort and counting sort) which do not use the comparison model  and under certain assumptions run in linear time. 
 
-The second topic this week is the __selection__ problem.  Given a set S of n elements, {x_1, x_2, ..., x_n} and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
+The second topic this week is the __selection__ proble:  Given a set S of n elements, {x_1, x_2, ..., x_n} and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
 
 __Objectives:__ 
 * Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
 * Understand BucketSort and CountingSort,  their analysis and assumptions
-* Understand the selection problem, and the algorithms for it (quick-select and smart-select)
+* Understand the selection problem and the algorithms for it (quick-select and smart-select)
 
 __Resources:__     
   * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
