@@ -5,7 +5,7 @@ nav_order: 6
 ---
 
 
-### Detailed schedule (Fall'22)
+### Detailed schedule (Fall 2022)
 
 ### Week 1: Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
 
@@ -102,9 +102,9 @@ __Resources:__
 ### Week 5: Sorting lower bound. Faster sorting. Selection. 
 _Sep 26-30_
 
-We have seen the most important  sorting algorithms so far and all of them have worst-case running time at least Ω(n lg n). The natural question is: Can a sorting algorithm do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound, and show that the  lower bound for sorting in the comparison model of computation is Ω(n lg n). We describe a couple of different ways to sort (bucket sort and counting sort) which do not use the comparison model  and under certain assumptions run in linear time. 
+We have seen the most important  sorting algorithms  and all of them have worst-case running times at least Ω(n lg n). The natural question is: Can a sorting algorithm do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound and show a lower bound for sorting in the comparison model of computation of Ω(n lg n). We describe a couple of different ways to sort (bucket sort and counting sort) which do not use the comparison model  and under certain assumptions run in linear time. 
 
-The second topic this week is the __selection__ proble:  Given a set S of n elements, {x_1, x_2, ..., x_n} and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
+The second topic this week is the __selection__ problem:  Given a set S of n elements, {x_1, x_2, ..., x_n} and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
 
 __Objectives:__ 
 * Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
