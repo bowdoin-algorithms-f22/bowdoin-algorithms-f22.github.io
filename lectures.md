@@ -113,29 +113,27 @@ __Objectives:__
 
 __Resources:__     
   * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
- * __Lab:__   [Lab5](docs/lab5.pdf) 
+ * __Lab:__  [Lab5](docs/lab5.pdf) | [python-insertionSort.ipynb](docs/week6-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-quickSort.ipynb)
  * __Assignment:__  Week5 quiz in Canvas, [Assignment 5](docs/hw5.pdf) in Gradescope
  *          
  ***
 
 
 
-### Week 6: Problems 
+### Week 6: Problems and WIN (whatever is needeed) 
 _Oct 3-7_
 
-At this point  in the class   (1) you have the tools to analyze algorithms and you appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your initial ideas!);   and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.   This week we'll see more problems and start talking about techniques.   
-
-The work for this week consists of  a set of Jupyter notebooks which provide implementation and visualization of some of the algorithms discussed so far; use them to refresh your programming and to deeper understand the algorithms.  And set of new problems to solve. 
+At this point  in the class   (1) you have the tools to analyze algorithms and start to appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your  ideas) and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.   This week we'll work on new problems and start talking about techniques.   
 
 __Objectives:__ This week's objective is algorithmic problem solving.  
-* Connect the algorithms discussed so far with their implementation. 
 * You would have seen examples of new problems, which may seem like they have nothing to do with the content in the previous weeks;  yet, the process of coming up with solutions to these problems on your own illustrates the very nature of  algorithmic problem solving 
 * You understand that algorithmic problem solving is both a science and an art 
-* Hopefully, you would have had one "ahaa!" moment 
+* You love this class
+
 
 
 __Resources:__
-  * __Lecture notes:__ [python-mysterySort.ipynb](docs/week6-mysterySort.ipynb), [python-insertionSort.ipynb](docs/week6-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-quickSort.ipynb)
+  * __Lecture notes:
   * __Lab:__   [Lab6](docs/lab6.pdf) 
   *   Exam1 in class
   * __Assignment:__ [Assignment 6](docs/hw6.pdf) in Gradescope
