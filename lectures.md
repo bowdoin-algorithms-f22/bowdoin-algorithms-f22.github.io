@@ -113,7 +113,7 @@ __Objectives:__
 
 __Resources:__     
   * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
- * __Lab:__  [Lab5](docs/lab5.pdf),  [python-insertionSort.ipynb](docs/week6-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-quickSort.ipynb)
+ * __Lab:__  [Lab5](docs/lab5.pdf),  [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb), [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [python-quickSort.ipynb](docs/python-quicksort.ipynb)
  * __Assignment:__  Week5 quiz in Canvas, [Assignment 5](docs/hw5.pdf) in Gradescope
  *          
  ***
