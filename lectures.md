@@ -136,8 +136,10 @@ __Resources:__
   * __Lecture notes:
   * __Lab:__   [Lab6](docs/lab6.pdf) 
   *   Exam1 in class
-  * __Assignment:__ [Assignment 6](docs/hw6.pdf) in Gradescope
-    
+  * __Assignment:__ 
+  <!-- 
+[Assignment 6](docs/hw6.pdf) in Gradescope
+    -->
  ***
  
  
