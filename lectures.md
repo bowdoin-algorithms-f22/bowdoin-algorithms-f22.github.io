@@ -120,17 +120,15 @@ __Resources:__
 
 
 
-### Week 6: Problems and WIN (whatever is needeed) 
+### Week 6: Problems and FLEX time 
 _Oct 3-7_
 
 At this point  in the class   (1) you have the tools to analyze algorithms and start to appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your  ideas) and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.   This week we'll work on new problems and start talking about techniques.   
 
 __Objectives:__ This week's objective is algorithmic problem solving.  
-* You would have seen examples of new problems, which may seem like they have nothing to do with the content in the previous weeks;  yet, the process of coming up with solutions to these problems on your own illustrates the very nature of  algorithmic problem solving 
+* You would have seen examples of new problems (which may seem like they have nothing to do with the content in the previous weeks);  yet, the process of coming up with solutions to these problems on your own illustrates the very nature of  algorithmic problem solving 
 * You understand that algorithmic problem solving is both a science and an art 
 * You love this class
-
-
 
 __Resources:__
   * __Lecture notes:
@@ -152,7 +150,7 @@ _Oct  12-14_
 
 What do you do when you want to solve a problem and you don't know where to start?  Coming up with solutions is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  By now you have some practice, and you perhaps noticed that some of the problems have similar solutions. We'll spend the next three weeks looking at more problems,  grouped by the technique used to solve them. 
 
-We introduce a  technique called __divide-and-conquer__. In fact you already saw this technique at work in Mergesort. This week we give more examples of problems that can be  solved via divide-and-conquer, including the famous Strassen's matrix multiplication algorithm. 
+The first technique we introduce is __divide-and-conquer__. You already saw this technique at work in Mergesort. This week you'll see more examples of problems that can be  solved via divide-and-conquer, including Strassen's matrix multiplication algorithm. 
 
 __Objectives:__ 
 * Understand how  D&C works in general 
