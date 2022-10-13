@@ -155,13 +155,13 @@ The first technique is __divide-and-conquer__, which solves a problem by dividin
 
 __Objectives:__ 
 * Understand how  D&C works in general 
-* Understand the D&C algorithms for integer multiplication and matrix multiplication (Karatsuba band Strassen) 
+* Understand the D&C algorithms for integer multiplication and matrix multiplication (Karatsuba and Strassen) 
 * Apply D&C to new problems
 
 __Resources:__
   * __Lecture notes:__ [LN-divideAndConquer.pdf](docs/week7-LN-divideAndConquer.pdf)
    * __Lab:__   [Lab7](docs/lab7.pdf)
-  * __Assignment:__ Week7 quiz in Canvas, [Assignment 7](docs/hw7.pdf) in Gradescope
+  * __Assignment:__ (no quiz this week);  [Assignment 7](docs/hw7.pdf) in Gradescope
          
  ***
  
