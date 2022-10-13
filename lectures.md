@@ -150,11 +150,11 @@ _Oct  12-14_
 
 What do you do when you want to solve a problem and you don't know where to start?  Coming up with new algorithms is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  We'll spend the next three weeks looking at more problems,  grouped by the technique used to solve them. 
 
-The first technique is __divide-and-conquer__: solve a problem by dividing the problem into  smaller subproblems and solving them recursively.  You already saw it  at work in Mergesort. This week you'll see more examples of problems that can be  solved via divide-and-conquer, including Strassen's matrix multiplication algorithm. 
+The first technique is __divide-and-conquer__, which solves a problem by dividing the problem into  smaller subproblems and solving them recursively.  You already saw it  at work in Mergesort. This week you'll see more examples of problems that can be  solved via divide-and-conquer, including Karatsuba's integer multiplication and  Strassen's matrix multiplication algorithms. 
 
 __Objectives:__ 
 * Understand how  D&C works in general 
-* Understand the algorithms for integer multiplication and matrix multiplication
+* Understand the D&C algorithms for integer multiplication and matrix multiplication (Karatsuba band Strassen) 
 * Apply D&C to new problems
 
 __Resources:__
