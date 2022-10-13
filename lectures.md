@@ -131,7 +131,7 @@ __Objectives:__ This week's objective is algorithmic problem solving.
 * You love this class
 
 __Resources:__
-  * __Lecture notes:
+  * __Lecture notes:__ (no new topics this week)
   * __Lab:__   [Lab6](docs/lab6.pdf) 
   *   Exam1 in class
   * __Assignment:__  none this week in view of Fall break 
