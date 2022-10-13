@@ -148,14 +148,14 @@ __Resources:__
 ### Week 7: Divide-and-conquer
 _Oct  12-14_
 
-What do you do when you want to solve a problem and you don't know where to start?  Coming up with solutions is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  By now you have some practice, and you perhaps noticed that some of the problems have similar solutions. We'll spend the next three weeks looking at more problems,  grouped by the technique used to solve them. 
+What do you do when you want to solve a problem and you don't know where to start?  Coming up with new algorithms is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  We'll spend the next three weeks looking at more problems,  grouped by the technique used to solve them. 
 
-The first technique we introduce is __divide-and-conquer__. You already saw this technique at work in Mergesort. This week you'll see more examples of problems that can be  solved via divide-and-conquer, including Strassen's matrix multiplication algorithm. 
+The first technique is __divide-and-conquer__: solve a problem by dividing the problem into  smaller subproblems and solving them recursively.  You already saw it  at work in Mergesort. This week you'll see more examples of problems that can be  solved via divide-and-conquer, including Strassen's matrix multiplication algorithm. 
 
 __Objectives:__ 
 * Understand how  D&C works in general 
 * Understand the algorithms for integer multiplication and matrix multiplication
-* Be able to apply D&C to new problems
+* Apply D&C to new problems
 
 __Resources:__
   * __Lecture notes:__ [LN-divideAndConquer.pdf](docs/week7-LN-divideAndConquer.pdf)
@@ -169,7 +169,7 @@ __Resources:__
 ### Week 8: Dynamic Programming 
 _Oct 17-21_
 
-We introduce the technique called _dynamic programming_ and see it at work on  three problems: Fibonacci, board game and rod cutting. 
+We introduce the technique called _dynamic programming_ which can be used to solve optimization problems (problems where we have to find the best  way to do something) that have optimal sub-structure (an optimal solution to a problem contains within it optimal solutions to sub-problems). Solving such problems involves Recursing to find the optimal solution may involve
 
 __Objectives:__ 
 * Understand  the basic principles of dynamic programming  
