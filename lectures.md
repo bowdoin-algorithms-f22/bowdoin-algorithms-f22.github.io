@@ -126,7 +126,7 @@ _Oct 3-7_
 At this point  in the class   (1) you have the tools to analyze algorithms and start to appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your  ideas) and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.   This week we'll work on new problems and start talking about techniques.   
 
 __Objectives:__ This week's objective is algorithmic problem solving.  
-* You would have seen examples of new problems (which may seem like they have nothing to do with the content in the previous weeks);  yet, the process of coming up with solutions to these problems on your own illustrates the very nature of  algorithmic problem solving 
+* You work on  new problems that require using the algorithms learnt so far in new ways
 * You understand that algorithmic problem solving is both a science and an art 
 * You love this class
 
