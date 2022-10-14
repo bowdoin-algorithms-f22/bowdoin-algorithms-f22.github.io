@@ -170,12 +170,12 @@ __Resources:__
 ### Week 8: Dynamic Programming 
 _Oct 17-21_
 
-We introduce the technique called _dynamic programming_ which can be used to solve optimization problems (problems where we have to find the best  way to do something) that have optimal sub-structure (an optimal solution to a problem contains within it optimal solutions to sub-problems). Solving such problems involves Recursing to find the optimal solution may involve
+We introduce the technique called _dynamic programming_ which can be used for optimization problems (problems where we have to find the best  way to do something) that have optimal sub-structure (an optimal solution to a problem contains within it optimal solutions to sub-problems). 
 
 __Objectives:__ 
-* Understand  the basic principles of dynamic programming  
-* Understand the three examples discussed in the lecture notes (including correctness and analysis) 
-* Move towards applying DP to new problems 
+* Understand  how  dynamic programming  works
+* Understand the  examples discussed in the lecture notes (including correctness and analysis) 
+* Start applying DP to new problems 
 
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
