@@ -179,7 +179,7 @@ __Objectives:__
 
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
- * __Lab:__   [Lab8](docs/lab8.pdf) , [Fibonacci.ipynb](docs/python-Fibonacci.ipynb), [rodcutting.ipynb](docs/python-rodcutting.ipynb)
+ * __Lab:__   [Lab8](docs/lab8.pdf) , [Fibonacci.ipynb](docs/python-Fibonacci.ipynb), [rodcutting.ipynb](docs/python-RodCutting.ipynb)
 * __Assignment:__  Week8 quiz in Canvas, [Assignment 8](docs/hw8.pdf) in Gradescope
    
   
