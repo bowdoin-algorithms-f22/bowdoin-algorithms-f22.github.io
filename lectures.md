@@ -174,8 +174,8 @@ We introduce the technique called _dynamic programming_ which can be used for op
 
 __Objectives:__ 
 * Understand  how  dynamic programming  works
-* Understand the  examples discussed in the lecture notes (including correctness and analysis) 
-* Start applying DP to new problems 
+* Understand the  examples discussed in the lecture notes (including justification and analysis) 
+* Apply DP to new problems 
 
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
@@ -193,10 +193,10 @@ _Oct 24-28_
 We add more ddynamic programming examples, and we introduce the greedy technique via the _activity selection_ problem. 
 
 __Objectives:__ 
-* Understand the knapsack problem 
+* Understand the DP solution for the knapsack problem 
 * Understand  how  the greedy technique works in general and contrast it with DP
-* Understand the greedy solution for the example discussed in the lecture notes (activity selection), including the correctness proof 
-* Move towards  applying the greedy technique to new problems 
+* Understand the greedy solution for the example discussed in the lecture notes (activity selection), including the correctness justification 
+* Apply the greedy technique to new problems
 
 __Resources:__
 * __Lecture notes:__ [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf), [knapsack.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
