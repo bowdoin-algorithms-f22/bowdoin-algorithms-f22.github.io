@@ -199,7 +199,7 @@ __Objectives:__
 * Apply the greedy technique to new problems
 
 __Resources:__
-* __Lecture notes:__ [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf), [knapsack.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
+* __Lecture notes:__ [LN-knapsack.pdf](docs/week9-LN-knapsack.pdf), [knapsack-summary.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
 * __Lab:__   [Lab9](docs/lab9.pdf) 
 * __Assignment:__ Week9 quiz in Canvas, [Assignment 9](docs/hw9.pdf) in Gradescope
    
