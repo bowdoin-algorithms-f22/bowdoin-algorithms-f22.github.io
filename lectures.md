@@ -208,7 +208,7 @@ __Resources:__
 
 
 
-### Week 10: 
+### Week 10: More DP and FLEX time
 _Oct 31-Nov 4_
 
 We wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing  a couple more examples of  these techniques at work. 
@@ -220,7 +220,6 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf) ; [LN-review.pdf](docs/week10-LN-review.pdf)
 * __Lab:__   [Lab10](docs/lab10.pdf) 
-*  Exam 2 in class
 * __Assignment:__ [Assignment 10](docs/hw10.pdf) in Gradescope 
 
 ***
@@ -241,6 +240,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
 * __Lab:__   [Lab11](docs/lab11.pdf) 
+*  Exam 2 in class
 * __Assignment:__ Week11 quiz in Canvas, [Assignment 11](docs/hw11.pdf) in Gradescope
 
 ***
