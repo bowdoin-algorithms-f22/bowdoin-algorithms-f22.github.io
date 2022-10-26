@@ -187,7 +187,7 @@ __Resources:__
  
  
  
-### Week 9: More DP examples; Greedy algorithms 
+### Week 9: More DP examples and the Greedy technique 
 _Oct 24-28_
 
 We add more ddynamic programming examples, and we introduce the greedy technique via the _activity selection_ problem. 
