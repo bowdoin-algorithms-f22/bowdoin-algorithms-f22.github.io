@@ -196,7 +196,7 @@ __Objectives:__
 * Understand the DP solution for the knapsack problem 
 * Understand  how  the greedy technique works in general and contrast it with DP
 * Understand the greedy solution for the example discussed in the lecture notes (activity selection), including the correctness justification 
-* Apply the greedy technique to new problems
+* Use the greedy technique to new problems
 
 __Resources:__
 * __Lecture notes:__ [LN-knapsack.pdf](docs/week9-LN-knapsack.pdf), [knapsack-summary.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
