@@ -211,12 +211,12 @@ __Resources:__
 ### Week 10: More DP and FLEX time
 _Oct 31-Nov 4_
 
-We wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing  a couple more examples of  these techniques at work. 
+We wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing more examples. 
 
 __Objectives:__ 
-* Reflect on the problems you've seen so far and consider how the general technique was instantiated  for each specific problem. 
-* At this point the strategy should feel familiar
-* 
+* Reflect on the problems you've seen so far and compare  how the general technique was instantiated  for each specific problem. 
+
+
 __Resources:__
 * __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf) ; [LN-review.pdf](docs/week10-LN-review.pdf)
 * __Lab:__   [Lab10](docs/lab10.pdf) 
