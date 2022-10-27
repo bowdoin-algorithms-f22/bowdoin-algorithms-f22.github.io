@@ -195,8 +195,8 @@ We add more ddynamic programming examples, and we introduce the greedy technique
 __Objectives:__ 
 * Understand the DP solution for the knapsack problem 
 * Understand  how  the greedy technique works in general and contrast it with DP
-* Understand the greedy solution for the example discussed in the lecture notes (activity selection), including the correctness justification 
-* Use the greedy technique to new problems
+* Understand the greedy solution for the example in the lecture  (activity selection), including the correctness justification 
+* Use the greedy technique for new problems
 
 __Resources:__
 * __Lecture notes:__ [LN-knapsack.pdf](docs/week9-LN-knapsack.pdf), [knapsack-summary.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
