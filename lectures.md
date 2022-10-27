@@ -214,9 +214,9 @@ _Oct 31-Nov 4_
 We wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing  a couple more examples of  these techniques at work. 
 
 __Objectives:__ 
-* Reflect on the problems we've looked at and compare on how the general technique was instantiated  for that specific problem. 
-* At this point the problems we've seen should feel familiar, and the goal is be  to be able to come up with the algorithms on your own. 
-
+* Reflect on the problems you've seen so far and consider how the general technique was instantiated  for each specific problem. 
+* At this point the strategy should feel familiar
+* 
 __Resources:__
 * __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf) ; [LN-review.pdf](docs/week10-LN-review.pdf)
 * __Lab:__   [Lab10](docs/lab10.pdf) 
