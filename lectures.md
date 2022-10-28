@@ -196,12 +196,11 @@ __Objectives:__
 * Understand the DP solution for the knapsack problem 
 * Understand  how  the greedy technique works in general and contrast it with DP
 * Understand the greedy solution for the example in the lecture  (activity selection), including the correctness justification 
-* Use the greedy technique for new problems
 
 __Resources:__
 * __Lecture notes:__ [LN-knapsack.pdf](docs/week9-LN-knapsack.pdf), [knapsack-summary.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
 * __Lab:__   [Lab9](docs/lab9.pdf) 
-* __Assignment:__ Quiz in Canvas, [Assignment 9](docs/hw9.pdf) in Gradescope
+* __Assignment:__ Quiz in Canvas, [Assignment 9](docs/hw9.pdf) in Canvas
    
  ***
 
@@ -214,7 +213,9 @@ _Oct 31-Nov 4_
 We wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing more examples. 
 
 __Objectives:__ 
-* Reflect on the problems you've seen so far and compare  how the general technique was instantiated  for each specific problem. 
+
+* Apply the greedy technique to new problems 
+* Reflect on the problems you've seen so far and how the general technique was instantiated  for each problem. 
 
 
 __Resources:__
