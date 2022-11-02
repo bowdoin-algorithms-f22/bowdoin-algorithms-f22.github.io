@@ -219,7 +219,7 @@ __Objectives:__
 
 
 __Resources:__
-* __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf) ; [LN-review.pdf](docs/week10-LN-review.pdf)
+* __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf) ; [LN-review.pdf](docs/week10-LN-review.pdf) ; [python-lcs.ipynb](docs/python-LCS.ipynb)
 * __Lab:__   [Lab10](docs/lab10.pdf) 
 * __Assignment:__ [Assignment 10](docs/hw10.pdf) in Gradescope 
 
