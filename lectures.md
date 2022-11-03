@@ -242,7 +242,7 @@ __Resources:__
 * __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
 * __Lab:__   [Lab11](docs/lab11.pdf) 
 *  Exam 2 in class
-* __Assignment:__ Week11 quiz in Canvas, [Assignment 11](docs/hw11.pdf) in Gradescope
+* __Assignment:__  [Assignment 11](docs/hw11.pdf) in Gradescope
 
 ***
  
@@ -263,7 +263,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
 * __Lab:__   [Lab12](docs/lab12.pdf)  
-* __Assignment:__ Week12 quiz in Canvas, [Assignment 12](docs/hw12.pdf) in Gradescope
+* __Assignment:__ Quiz in Canvas, [Assignment 12](docs/hw12.pdf) in Gradescope
   
  ***
  
@@ -282,7 +282,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-shpaths.pdf](docs/week13-LN-shpaths.pdf)
 *  __Lab:__   [Lab13](docs/lab13.pdf) 
-* __Assignment:__ Week 14 quiz in Canvas, [Assignment 13](docs/hw13.pdf) in Gradescope
+* __Assignment:__ Quiz in Canvas, [Assignment 13](docs/hw13.pdf) in Gradescope
                    
  ***
  
@@ -302,11 +302,11 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), [LN-review.pdf](docs/week14-LN-review.pdf),
 * __Lab:__   [Lab14](docs/lab14.pdf) 
-* __Assignment:__   Quiz  in Canvas   
+* __Assignment:__    
 
                       
 ***
 
-Final exam: see day/time and location in Polaris.  
+Final exam: According to Polaris, we have two exam slots: 12/15 8:30-11:30am, and 12/19, 8:30-11:30am.  I have booked large rooms for both days (xact locaation will be announced on Slack). Choose  the slot that works best for you, and show up.  
 
 ***
