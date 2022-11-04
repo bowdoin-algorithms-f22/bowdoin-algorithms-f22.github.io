@@ -73,11 +73,11 @@ Some of you will put in more or less time than what I suggested above.  If you f
 
 The work for the class throughout the semester consists of:  
 
-- __Quizzes: 30%__ There will be a total of O(10) online quizzes,   roughly one per week. The quizzes are administered at this time via Canvas  and are  a combination of multiple-choice and short-answer questions that test the  knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week.  You'll take the quizzes remotely from your room.  All quizzes are weighed equally (although the number of questions in each will be different).
+- __Quizzes: 30%__ There will be a total of O(10) online quizzes. The quizzes are administered at this time via Canvas  and are  a combination of multiple-choice and short-answer questions that test the fundamental  knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week.  You'll take the quizzes remotely from your room.  All quizzes are weighed equally (although the number of questions in each will be different).
 
 - __Assignments: 40%__ There are a total of O(10) assignments throughout the semester, roughly one per week. The assignments consist of new problems, for which you'll have to come up with efficient solutions. An important  goal of the assignments is to develop good algorithmic writing style --- your solutions  need to look professional, neat, easy to understand, explained, justified and analyzed.   All assignments are weighed equally. 
 
-- __Exams: 30%__ There will be 3 in-class exams: the first one in in week 6, the second one in week 10 and the last one at the end of the semester (check Poloaris for the final exam slot for this class).  The exams are non-cumulative, to the extent that it's possible. All exams weighed equally (i.e. each exam 10%).
+- __Exams: 30%__ There will be 3 in-class exams: the first one in in week 6, the second one in week 10 and the last one at the end of the semester (check Polaris for the final exam slot for this class).  The exams are non-cumulative, to the extent that it's possible. All exams weighed equally (i.e. each exam 10%).
 
 __Class engagement:__ This means attending class, working with your group in the lab, asking questions, engaging in discussions, volunteering answers,  participating on Slack, attending office hours and striving to turn in good work. Overall engagement will be used as a tie breaker when your score is between two grades.  
 
