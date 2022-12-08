@@ -91,7 +91,7 @@ My goal is to teach a class that's similar to algorithms classes at peer institu
 
 My teaching style is to create a friendly, open atmosphere where everyone feels comfortable and motivated to learn. There are no stupid questions. Any question is a sign that you want to engage. Based on my experience, the most effective learning happens when YOU (the class) work well together.  Open collaboration in the lab will be highly encouraged. Assignments are pair-optional, although everyone is highly encouraged to find a partner.  To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, many with solutions. Please help me make this class great by staying engaged and by giving me feedback (even if I don't ask for it)! Feedback is always welcome. 
 
-I know there are circumstances in our lives that we can't control. If you  have any (significant) circumstances that make learning hard, just talk to me, and we will work together to make an alternate plan. 
+I know there are circumstances in our lives that we can't control. If you  have any (significant) circumstances that make learning hard, just talk to me, and we will figure something out. 
 
 
 
