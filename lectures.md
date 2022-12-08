@@ -297,7 +297,7 @@ __Objectives:__
 * Know the general idea of Kruskal's and Prim's algorithms, and the Cut Theorem which captures their correctness
 
 __Resources:__
-* __Lecture notes:__ [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), [LN-review.pdf](docs/week14-LN-review.pdf),
+* __Lecture notes:__ [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), [LN-review.pdf](docs/week14-LN-review.pdf)
 * __Lab:__   [Lab14](docs/lab14.pdf) , [problem-trappingRain.pdf](docs/problem-trappingrain.pdf)
 
                       
