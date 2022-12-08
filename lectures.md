@@ -299,7 +299,9 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), [LN-review.pdf](docs/week14-LN-review.pdf),
 * __Lab:__   [Lab14](docs/lab14.pdf) 
-* __Assignment:__    
+
+
+
 
 ### Last class: Review and more problems 
 
