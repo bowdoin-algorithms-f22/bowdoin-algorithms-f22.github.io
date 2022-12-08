@@ -24,5 +24,5 @@ We'll use the following resources:
 * __Slack__: Class communication will be entirely on Slack. You will need to monitor Slack for class updates, including possible cancellations and location changes (in case there are any). You can contact me and any of the LAs by private messaging on Slack. 
 
 * __Zoom link__: All classes will be in person. If at any point we'll need to meet on Zoom, I'll send a zoom link on Slack. 
-* 
+
 If you are registered for the class, you will be added to the Gradescope site for the class (you'll receive an invitation to join). 
