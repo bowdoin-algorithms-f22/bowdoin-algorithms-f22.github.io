@@ -298,14 +298,7 @@ __Objectives:__
 
 __Resources:__
 * __Lecture notes:__ [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), [LN-review.pdf](docs/week14-LN-review.pdf),
-* __Lab:__   [Lab14](docs/lab14.pdf) 
-
-
-
-
-### Last class: Review and more problems 
-
-* __Notes:__ [LN-review.pdf](docs/week14-LN-review.pdf), [problem-trappingRain.pdf](docs/problem-trappingrain.pdf)
+* __Lab:__   [Lab14](docs/lab14.pdf) , [problem-trappingRain.pdf](docs/problem-trappingrain.pdf)
 
                       
 ***
