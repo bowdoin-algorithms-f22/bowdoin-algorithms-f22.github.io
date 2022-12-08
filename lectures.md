@@ -251,14 +251,11 @@ __Resources:__
 ### Week 12 :  Application of BFS and DFS. Topological order. Shortest paths on DAGs.  
 _Nov 14-18_
 
-W introduce the problem of a computing topological order on a directed acyclic graph (DAG).  Then we look at how  topological order can be used to solve various other problems on DAGs, including a simple algorithm for  computing shortest paths on a DAG. 
+We introduce the problem of a computing topological order on a directed acyclic graph (DAG).  Then we look at how  topological order can be used to solve various other problems on DAGs, including a simple algorithm for  computing shortest paths on a DAG. 
 
 __Objectives:__ 
-* Understand the applications of graph traversal to basic problems on directed and undirected graphs
-* Understand  the concept of topological order
-* Understand the algorithms for computing topological order 
-* Use topological order for dynamic programming on DAGs
-* Understand the properties of shortest paths and how SP can be computed on a DAG
+* Understand  the concept of topological order and the two algorithms for computing a topological order 
+* Use topological order to compute shortest paths on DAGs
 
 __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
@@ -273,7 +270,7 @@ __Resources:__
 ### Week 13, 14: Shortest paths. 
 _Nov 21-Dec 2_
 
-We discuss computing shortest paths on graphs, and see some of the nicest algorithms in computer science: Dijkstra's algorithm and Bellman-Ford's algorithm. While describing them we try to understand some common principles that guided their design.
+We discuss shortest paths on graphs and see some of the nicest algorithms in computer science: Dijkstra's algorithm and Bellman-Ford's algorithm. While describing them we try to understand some common principles that guided their design.
 We'll see that Bellman-Ford's algorithm uses dynamic programming and Dijkstra's  is a greedy algorithm, making these nice applications of the techniques we studied earlier in the semester. 
 
 __Objectives:__ 
@@ -288,7 +285,7 @@ __Resources:__
  
  
  
-### Week 15: Minimum spanning tree. Final review. 
+### Week 15: Minimum spanning tree. 
 _Dec 5-9_
 
 We  introduce  another fundamental problem on graphs, the Minimum Spanning Tree (MST). We'll see a couple of properties of MSTs which will get us intuition for how to compute an MST efficiently. We'll glance at two well-known algorithms, Prim's and Kruskal's,  which are both greedy algorithms much in the spirit of Dijkstra.  Their correctness follows from a neat result called The Cut Theorem.   
@@ -304,9 +301,13 @@ __Resources:__
 * __Lab:__   [Lab14](docs/lab14.pdf) 
 * __Assignment:__    
 
+### Last class: Review and more problems 
+
+* __Notes:__ [LN-review.pdf](docs/week14-LN-review.pdf), [problem-trappingRain.pdf](docs/problem-trappingrain.pdf)
+
                       
 ***
 
-Final exam: According to Polaris, we have two exam slots: 12/15 8:30-11:30am, and 12/19, 8:30-11:30am.  I have booked large rooms for both days (xact locaation will be announced on Slack). Choose  the slot that works best for you, and show up.  
+Final exam: According to Polaris, we have two exam slots: 12/15 8:30-11:30am, and 12/19, 8:30-11:30am.  I have booked large rooms for both days (xact location will be announced on Slack). Choose  the slot that works best for you and just show up.  
 
 ***
