@@ -10,10 +10,6 @@ nav_order: 1
 
 Hi everyone, Welcome to Algorithms! 
 
-<img src="/pics/IMG_5314.jpeg" width="500">
-
-<img src="/pics/IMG_5339.jpeg" width="500">
-
 We'll use the following resources: 
 
 
@@ -30,6 +26,3 @@ We'll use the following resources:
 
 If you are registered for the class, you will be added to the Gradescope site for the class (you'll receive an invitation to join). 
 
-<img title="fall22" alt="fall22" src="/pics/IMG_5328.jpeg" width="400">
-
-<img title="fall22" alt="fall22" src="/pics/IMG_5332.jpeg" width="400">
