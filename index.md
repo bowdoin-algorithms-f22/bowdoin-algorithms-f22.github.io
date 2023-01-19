@@ -8,7 +8,6 @@ nav_order: 1
 ## Initial announcements, logistics, resources
 
 
-
 Hi everyone, Welcome to Algorithms! 
 
 
