@@ -12,9 +12,7 @@ nav_order: 1
 Hi everyone, Welcome to Algorithms! 
 
 
-<img title="a title" alt="Alt text" src="/pics/IMG_5314.jpe">
-
-
+<img title="fall22" alt="fall22" src="/pics/IMG_5314.jpeg" width="500"><img title="fall22" alt="fall22" src="/pics/IMG_5339.jpeg" width="500">
 
 We'll use the following resources: 
 
@@ -31,3 +29,5 @@ We'll use the following resources:
 * __Zoom link__: All classes will be in person. If at any point we'll need to meet on Zoom, I'll send a zoom link on Slack. 
 
 If you are registered for the class, you will be added to the Gradescope site for the class (you'll receive an invitation to join). 
+
+<img title="fall22" alt="fall22" src="/pics/IMG_5328.jpeg" width="400"><img title="fall22" alt="fall22" src="/pics/IMG_5332.jpeg" width="400">
