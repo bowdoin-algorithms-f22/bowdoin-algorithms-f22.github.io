@@ -11,6 +11,11 @@ nav_order: 1
 
 Hi everyone, Welcome to Algorithms! 
 
+
+<img title="a title" alt="Alt text" src="/pics/IMG_5314.jpe">
+
+
+
 We'll use the following resources: 
 
 
